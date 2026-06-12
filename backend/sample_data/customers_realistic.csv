@@ -1,0 +1,801 @@
+external_id,name,email,phone,plan,monthly_revenue,contract_length_months,signup_date,contract_end_date,last_activity_date,logins_last_30d,feature_usage_score,support_tickets_open,support_tickets_total,nps_score,billing_issues_count,country,industry,company_size,is_churned,churned_at
+EXT-2000,"Rodriguez, Figueroa and Sanchez",jillrhodes@miller.com,989.608.3863,free,0.00,,2024-09-19,,2026-06-01,27,43.7,2,3,77,0,NL,FinTech,large,false,
+EXT-2001,Blake and Sons,jpeterson@bernard.com,361-855-9407,starter,68.49,,2024-03-04,,2026-06-09,16,76.1,0,0,100,0,DE,MarTech,large,false,
+EXT-2002,Arnold Ltd,barbara10@perez.com,664-375-2553,growth,792.62,24,2022-11-17,2024-11-01,2026-06-05,24,61.7,0,1,77,0,FR,MarTech,small,false,
+EXT-2003,"Reid, Ferguson and Sanchez",ogray@hawkins.com,505.964.1395,free,0.00,,2022-06-11,,2026-04-22,6,21.4,3,5,,1,SG,FinTech,large,true,2024-04-19
+EXT-2004,Wilkerson-Day,josephwright@ryan.org,(353)828-7101x2269,starter,136.61,,2023-08-03,,2026-02-16,4,3.8,5,9,-4,0,SG,EdTech,large,true,2023-11-18
+EXT-2005,Carlson-Mcdonald,tasha01@dyer.com,346-627-0482,starter,122.00,,2022-02-18,,2026-06-03,15,54.4,0,0,32,1,DE,PropTech,small,false,
+EXT-2006,"Romero, Gonzalez and Brooks",amberosborne@sellers.com,(443)903-9117x182,starter,147.91,,2023-10-23,,2026-06-07,19,62.4,0,0,63,0,BR,LegalTech,small,false,
+EXT-2007,"Martin, Rose and Obrien",sarahcampos@harris.com,587.213.3150x983,growth,993.66,,2022-05-05,,2026-06-07,19,82.7,0,0,,1,US,LegalTech,large,false,
+EXT-2008,Zimmerman Inc,carlosjohnson@jones-young.info,582.399.7376,starter,75.89,,2024-10-26,,2026-06-11,18,65.2,0,1,63,0,SG,InsurTech,small,false,
+EXT-2009,Hopkins LLC,ujenkins@nunez.com,4658133387,enterprise,4003.92,,2022-08-16,,2026-06-07,15,90.7,0,0,18,0,NL,FinTech,mid,false,
+EXT-2010,Ramirez and Sons,ramosmichelle@garcia.com,432-867-7360,enterprise,3586.15,,2022-05-24,,2026-06-06,18,78.5,0,1,64,1,SG,InsurTech,mid,false,
+EXT-2011,Galloway LLC,smitchell@cowan.com,243.909.8050,free,0.00,,2023-06-25,,2026-05-16,3,24.4,3,9,86,2,FR,FinTech,mid,false,
+EXT-2012,"Calhoun, Schmidt and Brown",yorkcasey@leonard.biz,793-699-0916,starter,86.41,,2022-05-14,,2026-06-07,16,77.6,0,1,61,0,CA,SaaS,small,true,2024-02-11
+EXT-2013,Santiago LLC,josephanderson@evans.com,6794911838,growth,393.19,12,2023-03-08,2024-03-01,2026-06-11,26,77.7,0,0,69,0,FR,PropTech,large,false,
+EXT-2014,Ibarra-Suarez,justin78@turner.net,4846124118,starter,191.33,,2024-02-15,,2026-06-01,23,65.8,0,1,29,0,BR,LegalTech,small,false,
+EXT-2015,Jacobs-Robbins,gracefarrell@freeman.com,+1-264-300-5242x7868,starter,157.86,,2023-11-03,,2026-06-01,23,66.8,0,1,36,0,US,LegalTech,small,false,
+EXT-2016,Landry Ltd,amydavenport@tran.com,4535315869,growth,833.75,24,2024-11-29,2026-11-01,2026-06-05,22,61.2,0,1,46,0,CA,MarTech,small,false,
+EXT-2017,Cherry and Sons,vjohnson@patton-jenkins.com,521-260-7337x543,enterprise,3032.66,,2024-12-12,,2026-06-10,13,82.9,0,2,65,1,GB,MarTech,large,true,2026-01-23
+EXT-2018,"Lee, Murphy and Lin",michael86@zavala.com,329-840-1965x569,growth,608.62,24,2024-12-18,2026-12-01,2026-06-06,15,68.1,0,0,50,0,BR,LegalTech,large,false,
+EXT-2019,"Lee, Williams and Graham",michaeljones@mccall.com,001-448-646-5648x236,free,0.00,,2024-08-05,,2026-02-17,5,29.2,1,2,,1,CA,HealthTech,large,true,2026-02-15
+EXT-2020,Kelley-Smith,jason99@morris.net,221.248.9513x4332,enterprise,3104.96,,2023-09-20,,2026-05-13,4,14.7,3,7,15,3,FR,EdTech,small,true,2026-02-03
+EXT-2021,Riggs PLC,gibsonolivia@lee.com,(501)363-2870,starter,113.19,,2024-06-27,,2026-05-20,22,66.4,0,1,66,0,IN,PropTech,mid,false,
+EXT-2022,Anderson-Marshall,stephanie79@mcclain.info,(677)943-4873,enterprise,3422.01,12,2022-08-16,2023-08-01,2026-06-05,22,64.6,1,1,40,0,FR,E-commerce,large,false,
+EXT-2023,Reeves and Sons,matthew81@hernandez.com,001-831-266-5876x036,starter,96.08,,2023-08-16,,2026-05-30,29,68.6,0,1,73,0,BR,SaaS,mid,false,
+EXT-2024,"James, Smith and Bell",acastaneda@adkins.com,234.867.0656x2729,free,0.00,,2024-08-14,,2026-06-04,15,50.0,0,0,48,2,SG,MarTech,mid,false,
+EXT-2025,"Elliott, Johnson and Day",michellewhite@gray-lewis.com,264-564-1708x05310,starter,146.37,,2022-07-09,,2026-01-25,6,50.3,1,6,-10,1,IN,SaaS,large,true,2025-04-18
+EXT-2026,Combs PLC,johnwells@elliott.info,001-645-829-9124x190,starter,52.72,,2023-02-28,,2026-06-10,26,75.1,2,3,35,0,IN,EdTech,mid,false,
+EXT-2027,David-Gonzalez,curtisbarton@burke.com,(786)951-8506x716,growth,874.81,12,2022-12-22,2023-12-01,2026-04-22,8,8.5,6,10,-30,2,AU,PropTech,small,false,
+EXT-2028,"Hernandez, Thompson and Boyd",christina87@graham-simon.com,431-947-3799x65075,starter,177.00,,2024-11-09,,2026-04-22,5,17.2,0,2,-9,2,AU,FinTech,small,true,2025-07-25
+EXT-2029,Kelly LLC,joshua94@smith.biz,783.977.7014x3634,growth,393.06,12,2022-04-30,2023-04-01,2026-06-03,13,50.1,2,2,57,0,AU,HealthTech,mid,false,
+EXT-2030,"Schmidt, Coleman and Reese",michael74@king-martinez.com,618-523-3749x89413,starter,97.37,,2022-01-21,,2026-06-04,19,47.3,2,2,27,1,AU,InsurTech,small,false,
+EXT-2031,White-Smith,joshuamccann@carter.info,209-647-7752,starter,55.16,,2022-11-24,,2026-06-09,25,79.8,2,5,89,0,FR,SaaS,large,false,
+EXT-2032,Wilson-Jones,ojones@brown.com,831-986-9993,starter,178.41,,2023-06-11,,2026-06-03,11,70.2,0,0,,0,GB,MarTech,small,false,
+EXT-2033,Evans-Chapman,ntorres@lynch.com,001-933-641-2328x120,starter,56.11,,2023-07-20,,2026-06-01,17,39.1,0,1,65,0,US,PropTech,small,false,
+EXT-2034,Hall Ltd,jacqueline71@hall.org,+1-636-918-3242x1024,enterprise,2389.92,,2022-01-11,,2026-05-31,14,85.0,0,1,61,0,BR,HRTech,large,true,2024-01-30
+EXT-2035,Harrison LLC,gbender@snyder.biz,001-459-940-1399x049,starter,157.78,,2025-02-12,,2026-06-03,18,77.2,0,0,,0,AU,LegalTech,large,false,
+EXT-2036,"Pearson, Moon and White",fwalters@harrison.com,712-356-7468x07154,enterprise,4581.33,12,2023-01-02,2024-01-01,2026-06-07,15,55.7,0,0,33,0,IN,FinTech,small,false,
+EXT-2037,Hancock-Bryan,sandovalamy@brown-stone.org,001-577-403-4824x771,free,0.00,,2023-02-20,,2026-04-28,3,42.9,3,8,0,3,GB,PropTech,large,true,2025-05-22
+EXT-2038,Pierce-Tran,walkermaureen@murray.com,448.346.7737x8263,enterprise,4293.34,12,2023-08-05,2024-08-01,2026-06-04,21,71.4,0,1,6,0,DE,LegalTech,mid,false,
+EXT-2039,Barton-Dickerson,sarah84@campbell.org,001-872-978-7558,starter,73.43,,2022-01-27,,2026-06-09,19,100.0,0,1,52,0,US,E-commerce,small,false,
+EXT-2040,Kane-Pollard,ashleyhall@williams-garner.biz,(227)402-8951x7187,starter,131.93,,2025-01-08,,2026-04-14,4,20.5,5,5,4,1,NL,InsurTech,large,false,
+EXT-2041,Pitts-Booker,harrisontanya@hanson-sanders.com,386-357-8091x34316,starter,183.42,,2023-12-14,,2026-06-06,17,85.7,0,2,67,0,AU,HealthTech,small,false,
+EXT-2042,Jackson-Evans,williamslaura@howard-jordan.com,569.922.2196x93792,free,0.00,,2024-09-05,,2026-03-12,6,48.8,3,8,5,1,US,E-commerce,large,true,2026-02-02
+EXT-2043,"King, Scott and Smith",rsantana@moore.org,664-674-3671x3695,growth,824.59,,2023-12-04,,2026-06-11,21,30.0,0,2,69,0,NL,HealthTech,small,false,
+EXT-2044,Spence Ltd,khill@osborne.info,239-753-3942x1047,growth,760.97,12,2024-12-03,2025-12-01,2026-06-05,18,83.9,0,0,57,0,DE,HRTech,large,false,
+EXT-2045,"Anderson, Browning and Murphy",ithompson@walter.com,(547)845-1712,growth,692.27,24,2022-06-22,2024-06-01,2026-06-01,23,79.8,0,2,50,1,SG,PropTech,small,false,
+EXT-2046,"Diaz, Gibbs and Smith",gibsonemily@baker.com,337-909-8593,growth,901.44,24,2023-04-30,2025-04-01,2026-06-02,20,71.0,0,0,52,0,IN,FinTech,small,false,
+EXT-2047,"Turner, Ortiz and Taylor",torrestravis@young.com,(275)786-9261x7964,starter,195.42,,2023-08-24,,2026-06-08,18,75.4,0,0,17,0,AU,MarTech,small,false,
+EXT-2048,Ramos and Sons,cory58@howard.com,513.590.0532x931,enterprise,4451.63,,2024-12-18,,2026-06-06,22,82.3,0,1,73,0,BR,PropTech,large,false,
+EXT-2049,Murphy and Sons,ramireztracey@fernandez.com,+1-302-305-3950x2402,starter,50.13,,2022-02-15,,2026-06-07,20,73.1,0,0,68,0,AU,FinTech,large,false,
+EXT-2050,West-Cox,hayesjeffrey@williams.net,470-307-6617x7115,enterprise,4997.98,24,2022-02-06,2024-02-01,2026-05-24,3,30.6,3,5,-34,3,GB,PropTech,small,true,2025-04-14
+EXT-2051,Hill Ltd,oscar98@chavez-jacobs.com,001-318-736-7365x766,starter,72.03,,2023-01-03,,2026-06-08,19,52.0,1,1,89,0,CA,SaaS,mid,false,
+EXT-2052,Edwards-Scott,gloriawells@decker.biz,352-880-9885,starter,66.84,,2022-03-03,,2026-04-08,2,55.3,2,6,6,2,GB,FinTech,small,true,2022-12-18
+EXT-2053,Russo-Pugh,uparrish@schmitt.com,(319)683-2731x585,growth,684.64,,2024-08-09,,2026-06-11,15,80.8,0,1,31,1,AU,LegalTech,mid,false,
+EXT-2054,"Perez, Patterson and Hoffman",lynchdiane@adams.com,850-922-9612x01836,starter,78.32,,2022-01-31,,2026-04-11,6,32.9,2,5,22,2,NL,SaaS,mid,true,2023-01-17
+EXT-2055,Moore-Collins,kimberly99@ware.com,001-390-714-7679x764,starter,141.94,,2022-08-28,,2026-06-09,18,58.7,0,0,77,0,GB,InsurTech,large,false,
+EXT-2056,Rodriguez-Gregory,trose@walker.com,2349324451,starter,64.49,,2024-05-21,,2026-06-05,20,62.9,0,2,61,1,US,MarTech,mid,false,
+EXT-2057,"Jordan, Anderson and Patel",vincentwhitaker@jones-hensley.com,(707)415-9696x64160,starter,73.91,,2023-02-19,,2026-06-10,30,49.2,0,1,66,0,BR,E-commerce,large,false,
+EXT-2058,"Stevens, Norris and Cox",prichard@chapman-warren.biz,453-552-1818x8355,growth,317.57,,2022-09-06,,2026-06-09,17,80.3,0,2,67,1,GB,InsurTech,small,false,
+EXT-2059,Thomas and Sons,carriewolf@jones.info,001-699-279-9552x717,free,0.00,,2023-07-28,,2026-06-02,5,20.0,4,10,39,4,FR,EdTech,mid,false,
+EXT-2060,Romero-Collins,xjohnson@jones-lin.com,+1-998-467-9807x935,growth,742.96,,2024-03-08,,2026-03-22,2,42.5,1,4,29,0,AU,SaaS,small,true,2025-02-10
+EXT-2061,Hayes LLC,wagnergerald@zimmerman.net,392.855.4665x90515,free,0.00,,2023-09-10,,2026-06-04,18,67.5,2,2,98,0,CA,E-commerce,large,false,
+EXT-2062,King-York,mathewaguilar@rangel.biz,(391)848-6528,starter,107.73,,2022-08-07,,2026-06-06,14,84.4,3,4,71,0,SG,SaaS,mid,false,
+EXT-2063,"Cox, Cox and White",matthewmiranda@perez.com,441-888-8059,starter,58.50,,2024-06-20,,2026-06-03,22,77.5,0,0,,1,GB,MarTech,mid,false,
+EXT-2064,Martin Ltd,jenniferwilliams@rhodes-young.info,+1-947-638-3473x597,starter,146.98,,2024-11-20,,2026-06-07,31,59.1,0,0,79,0,GB,EdTech,large,false,
+EXT-2065,Shaw-Barnes,lisasolis@salas.info,(881)381-4124x782,starter,144.64,,2022-09-22,,2026-05-29,30,58.8,0,1,51,0,FR,PropTech,small,false,
+EXT-2066,Velasquez LLC,perryrandy@young-vang.com,905.415.2204,enterprise,3270.17,,2023-06-27,,2026-05-31,23,91.5,0,2,67,0,DE,EdTech,mid,false,
+EXT-2067,"Harrison, Gilbert and Bullock",scottmary@bentley.com,341.903.6971,enterprise,4161.91,,2022-09-07,,2026-06-09,16,39.4,0,1,30,0,NL,FinTech,large,false,
+EXT-2068,"Herrera, Chen and Andrews",kellysmith@allen-butler.com,651.288.8880x67065,starter,75.45,,2023-02-18,,2026-06-11,18,70.7,1,2,66,0,AU,E-commerce,large,false,
+EXT-2069,Kramer-Cooper,ingramjill@anderson-bell.com,+1-227-772-2170x4303,enterprise,4995.90,12,2022-10-06,2023-10-01,2026-06-05,18,78.7,0,0,26,0,NL,InsurTech,large,false,
+EXT-2070,Robertson-Hays,wking@lee.com,615-366-7652x775,enterprise,4981.88,,2024-02-12,,2026-06-11,13,41.1,0,1,79,0,NL,FinTech,small,false,
+EXT-2071,"Coleman, Jordan and Carney",amymorris@murphy.com,296.327.5705x964,starter,75.32,,2022-09-18,,2026-06-09,19,78.7,0,0,45,0,NL,PropTech,large,false,
+EXT-2072,"Walsh, Cox and Owen",stephaniethomas@gregory.com,001-455-769-0927x557,starter,77.33,,2022-07-19,,2026-04-11,4,38.7,1,7,38,2,DE,LegalTech,large,true,2024-03-22
+EXT-2073,Edwards-Ramirez,johnsonjacob@hughes.com,001-973-394-7312x172,enterprise,4309.52,12,2024-01-06,2025-01-01,2026-06-08,20,93.1,0,2,31,0,GB,HealthTech,small,false,
+EXT-2074,"Ponce, Downs and Contreras",piercekelly@york-joseph.com,(783)913-2370x589,starter,56.58,,2022-06-06,,2026-06-02,17,75.5,0,0,60,0,FR,E-commerce,small,false,
+EXT-2075,"Anderson, Henson and Jones",ukey@fox-hammond.org,425-417-7852,starter,167.03,,2023-12-17,,2026-06-02,24,71.1,1,2,50,0,SG,HealthTech,large,false,
+EXT-2076,Shaw-Oneill,holmeskevin@morris.com,(384)414-3842x498,starter,196.00,,2024-05-01,,2026-05-29,16,46.4,2,3,95,0,SG,E-commerce,small,false,
+EXT-2077,"David, Moore and Hopkins",megan90@miller.org,839-669-0784x473,free,0.00,,2024-06-09,,2026-05-28,23,67.1,0,0,49,0,DE,PropTech,large,false,
+EXT-2078,Jones-Brown,dperry@peterson.com,001-355-662-5881x537,growth,743.89,,2022-02-28,,2026-05-13,27,73.5,0,0,50,0,BR,MarTech,small,false,
+EXT-2079,Wright-Davis,sonia96@estes.com,001-953-227-8774,starter,59.70,,2023-07-05,,2026-06-09,26,80.0,0,0,48,1,US,SaaS,small,false,
+EXT-2080,Landry PLC,nlevy@gomez.info,580-716-2456x5060,starter,72.03,,2022-06-03,,2026-05-31,25,69.7,0,1,49,0,SG,InsurTech,large,false,
+EXT-2081,"Roberts, Hughes and Cole",marcia99@anderson.biz,(258)452-3986x800,growth,726.23,24,2023-01-17,2025-01-01,2026-06-10,13,64.1,0,0,47,0,GB,E-commerce,large,false,
+EXT-2082,"Cook, Wells and Bryant",markaustin@long.com,001-258-788-7947,growth,629.79,12,2023-09-17,2024-09-01,2026-05-06,13,69.0,0,0,41,0,SG,PropTech,large,false,
+EXT-2083,Nunez-Whitney,laura09@baker-rios.org,001-430-597-2896,free,0.00,,2023-07-23,,2026-06-12,24,72.3,0,2,82,0,AU,LegalTech,mid,false,
+EXT-2084,Armstrong Ltd,leescott@hernandez-vaughn.biz,997.702.8385x78652,enterprise,4947.66,,2024-04-27,,2026-02-27,3,34.1,7,10,-7,1,BR,HealthTech,small,true,2025-11-04
+EXT-2085,"Gomez, Ingram and Le",chelsea33@grant-walker.com,001-843-775-7584x419,growth,686.79,24,2023-01-06,2025-01-01,2026-06-01,21,67.4,0,1,60,0,AU,FinTech,small,false,
+EXT-2086,Roberts LLC,reedscott@burgess-lewis.net,584-221-9933x083,enterprise,4625.68,12,2022-05-26,2023-05-01,2026-06-11,12,61.3,0,0,,0,FR,PropTech,mid,false,
+EXT-2087,Gutierrez Ltd,xgarcia@smith.com,(877)434-5401x93802,free,0.00,,2023-09-28,,2026-03-06,7,1.0,2,3,,3,US,FinTech,small,true,2024-10-20
+EXT-2088,Osborn Group,vlopez@mcdowell-smith.org,+1-515-347-8872x874,enterprise,3648.40,12,2024-08-11,2025-08-01,2026-06-04,29,79.7,0,1,,0,DE,HRTech,mid,false,
+EXT-2089,Martin-Stevens,jennifer05@bradley-todd.com,+1-566-285-1612x275,starter,59.69,,2023-04-25,,2026-05-19,4,7.9,3,8,-17,3,CA,MarTech,mid,true,2023-10-26
+EXT-2090,Reyes-Griffin,stephanie49@berry.com,6177426841,starter,115.16,,2024-03-08,,2026-06-08,26,54.2,1,1,47,0,DE,HealthTech,small,false,
+EXT-2091,"Walker, Bernard and Mendoza",madkins@perry-dunn.info,001-583-439-1878x519,growth,498.37,,2024-06-08,,2026-03-15,3,52.2,0,6,-33,2,BR,PropTech,large,true,2024-12-27
+EXT-2092,Murphy PLC,nwilson@aguilar.com,628.267.9087x406,starter,90.92,,2023-04-24,,2026-03-04,4,9.2,3,6,-13,2,FR,PropTech,large,true,2024-04-30
+EXT-2093,"Robinson, Jones and Henderson",weaverbrian@andersen.com,762-326-5676x6182,free,0.00,,2025-01-06,,2026-03-09,1,38.8,1,6,23,2,GB,HealthTech,large,true,2025-06-24
+EXT-2094,Haney Group,jessicawalker@avila.info,+1-886-286-3375x2431,enterprise,2426.01,12,2022-10-27,2023-10-01,2026-06-08,24,50.7,0,0,,0,SG,HealthTech,mid,false,
+EXT-2095,Harris Inc,griffinemily@sanchez.biz,738.530.2843x959,growth,834.33,,2022-11-13,,2026-02-20,3,12.4,0,1,33,1,GB,EdTech,small,true,2025-11-03
+EXT-2096,Walter-Odom,roberthill@fry.biz,+1-470-656-8566,starter,90.39,,2024-06-05,,2026-06-08,29,92.6,0,1,75,0,NL,SaaS,mid,false,
+EXT-2097,White-Medina,melissaturner@thomas.biz,(588)226-3435x17518,growth,588.39,,2023-06-03,,2026-06-06,20,72.5,0,2,43,0,BR,HealthTech,large,false,
+EXT-2098,Bennett-Jacobs,russojacob@ramsey.com,603-831-7393x6385,growth,340.19,12,2025-01-26,2026-01-01,2026-06-07,26,74.5,0,0,85,0,NL,SaaS,small,false,
+EXT-2099,Ferguson-Howard,michael77@lang.info,001-853-655-6093x204,enterprise,3093.73,24,2022-12-30,2024-12-01,2026-06-02,23,55.9,0,1,43,0,SG,PropTech,large,false,
+EXT-2100,Gonzalez and Sons,phudson@pierce-harding.com,277-272-5228x728,starter,129.58,,2022-04-12,,2026-05-11,5,32.4,1,3,-47,2,DE,E-commerce,mid,true,2022-08-10
+EXT-2101,Landry Ltd,duranrobert@hall.net,250.299.7700x886,enterprise,1705.52,24,2022-10-22,2024-10-01,2026-06-06,17,68.0,0,0,56,0,IN,MarTech,large,false,
+EXT-2102,"Bowen, Nichols and Mitchell",ldrake@hull.com,739.884.5461,starter,194.81,,2022-07-10,,2025-12-21,5,28.5,2,6,-31,3,SG,HealthTech,small,false,
+EXT-2103,Cunningham-Branch,kevinclayton@valdez.com,366-968-7002,free,0.00,,2022-12-05,,2026-02-19,2,45.7,4,11,18,1,CA,E-commerce,small,false,
+EXT-2104,Newman-Rivera,jacobsonsamantha@lewis.org,440.814.8902x5039,growth,361.25,12,2022-12-14,2023-12-01,2026-04-22,4,34.3,0,5,38,0,SG,HealthTech,mid,true,2025-11-12
+EXT-2105,Evans PLC,ashleyatkinson@mosley.com,001-818-750-1631x599,starter,111.79,,2023-09-26,,2026-05-27,21,89.1,0,0,65,0,AU,MarTech,small,false,
+EXT-2106,Walters Group,jperez@reynolds-frazier.biz,494-831-1426,growth,990.03,12,2023-06-19,2024-06-01,2026-06-12,17,78.2,0,2,,0,SG,FinTech,small,false,
+EXT-2107,Ward-Davis,sean41@miller.info,+1-388-761-0158,enterprise,2365.43,24,2023-09-01,2025-09-01,2026-06-02,19,82.4,1,1,90,0,NL,E-commerce,mid,false,
+EXT-2108,Smith-Gutierrez,hardyanita@armstrong.biz,(824)644-7212,growth,366.85,,2024-12-13,,2026-06-10,20,100.0,0,0,52,0,BR,LegalTech,small,false,
+EXT-2109,Evans-Patton,johnathan37@jensen.com,(559)965-7569x2459,growth,699.10,12,2022-03-21,2023-03-01,2026-06-12,24,63.8,0,3,59,0,DE,InsurTech,mid,false,
+EXT-2110,Thompson-Sanders,kelly79@nguyen.biz,(619)339-8280x737,growth,454.22,,2022-01-18,,2026-06-05,24,61.2,1,1,27,0,SG,E-commerce,mid,false,
+EXT-2111,Chambers-Taylor,john26@jones-ewing.info,001-368-386-8058,starter,99.75,,2022-02-12,,2026-05-29,20,44.9,1,1,62,0,NL,InsurTech,large,false,
+EXT-2112,Sandoval LLC,deborahwilliams@byrd.biz,501-943-8889,enterprise,4779.72,24,2022-03-06,2024-03-01,2026-05-09,20,69.2,2,2,,0,NL,EdTech,large,false,
+EXT-2113,Myers-Barton,michaeljohnson@phillips.com,001-925-745-7387x571,enterprise,2028.48,,2023-05-01,,2026-06-09,17,68.8,0,0,44,0,BR,InsurTech,small,true,2026-02-23
+EXT-2114,Evans Ltd,johnsonmatthew@byrd.com,228.525.8673x62266,growth,561.69,,2023-12-31,,2026-06-06,24,96.4,0,2,57,0,DE,FinTech,mid,false,
+EXT-2115,Vargas-Price,jamiegoodwin@ray.com,(853)371-4785x969,growth,821.71,24,2023-01-05,2025-01-01,2026-06-05,21,40.3,0,0,71,0,IN,E-commerce,mid,false,
+EXT-2116,Bell-Ellis,lisamccarthy@sellers-lawrence.com,813-841-2528x66929,starter,73.90,,2022-08-20,,2026-05-20,22,68.0,0,1,23,1,SG,HRTech,large,true,2025-11-19
+EXT-2117,Tucker PLC,angelaburns@lopez.org,9508723688,growth,461.79,24,2024-06-28,2026-06-01,2026-06-01,18,48.3,0,2,53,0,AU,InsurTech,large,false,
+EXT-2118,"Vasquez, Mckinney and Wallace",christopherjohnson@carter.com,+1-342-679-7881,growth,920.43,24,2024-08-05,2026-08-01,2026-06-04,18,82.8,1,5,64,1,FR,FinTech,mid,false,
+EXT-2119,"Morrow, Richardson and Carson",wolfscott@fritz.com,807-445-1713x3959,enterprise,2880.49,24,2023-04-18,2025-04-01,2026-06-05,26,84.6,3,3,88,0,SG,HealthTech,small,false,
+EXT-2120,"Taylor, Clark and Clark",hudsonamanda@ryan.com,001-448-512-6042,growth,649.69,24,2024-08-29,2026-08-01,2026-06-01,17,57.1,0,1,26,0,NL,HRTech,large,false,
+EXT-2121,Dawson and Sons,kburns@adams.com,(884)557-7590x1751,starter,180.36,,2022-09-29,,2026-06-10,27,63.3,0,0,89,0,BR,FinTech,small,false,
+EXT-2122,Summers-Simpson,maria58@anderson.com,8175012770,starter,170.12,,2022-10-18,,2026-05-06,7,24.5,1,5,41,0,AU,EdTech,small,false,
+EXT-2123,"Blankenship, Khan and Turner",clarence54@watson.com,9643361103,growth,793.69,24,2022-04-18,2024-04-01,2026-05-26,15,67.2,0,0,73,0,AU,InsurTech,mid,false,
+EXT-2124,Wheeler PLC,ssmith@montoya-mcneil.biz,001-427-813-6111x554,growth,666.57,,2022-07-22,,2026-06-11,25,73.0,1,1,21,0,SG,PropTech,mid,false,
+EXT-2125,May Ltd,caseyelliott@santos.com,(597)631-1219x65652,free,0.00,,2022-04-27,,2026-01-14,8,25.8,4,5,9,0,CA,PropTech,large,false,
+EXT-2126,"Miller, Tran and Greene",kimberly04@holmes.com,001-264-703-7613x791,free,0.00,,2024-09-05,,2026-06-12,19,67.7,1,2,43,0,CA,HRTech,mid,false,
+EXT-2127,Anderson-Valencia,rdiaz@farmer.com,001-610-843-0068,free,0.00,,2022-02-16,,2026-03-06,5,41.0,3,9,78,4,SG,E-commerce,mid,true,2025-04-06
+EXT-2128,Miles-Miller,joshuacollins@mccall.com,(291)646-3031x6179,growth,385.70,24,2023-03-16,2025-03-01,2026-06-03,18,60.0,0,1,48,0,FR,HealthTech,large,false,
+EXT-2129,"Harmon, Yang and Wilson",jacquelinemartin@mills-logan.com,(352)641-0564,enterprise,1879.08,12,2024-03-28,2025-03-01,2026-02-20,1,5.0,1,4,,0,FR,HRTech,mid,true,2026-03-06
+EXT-2130,"Proctor, Burton and Crawford",brian92@moore-ayala.org,+1-213-880-0030x7562,enterprise,1526.19,12,2023-12-07,2024-12-01,2026-01-03,6,46.1,0,7,0,2,IN,HRTech,small,false,
+EXT-2131,Morris Group,joseph19@wilson-nunez.com,(738)306-1744,starter,50.68,,2022-06-30,,2026-06-03,22,55.8,0,1,61,0,BR,FinTech,large,false,
+EXT-2132,"Bryant, Wood and Carter",jodi37@vargas-snyder.com,001-883-620-6038x505,free,0.00,,2022-10-23,,2026-03-31,5,35.2,1,5,32,4,GB,HealthTech,large,true,2023-10-02
+EXT-2133,Harris and Sons,dvasquez@dawson.com,486.857.1918,starter,140.56,,2023-11-30,,2026-05-21,23,97.4,0,2,91,0,SG,FinTech,small,false,
+EXT-2134,Vargas Inc,ibates@carter.biz,001-355-474-3132x912,free,0.00,,2024-05-26,,2026-05-26,21,60.6,0,1,44,0,SG,E-commerce,large,false,
+EXT-2135,Owens-Russell,tami37@ford-phelps.com,(749)803-5213,enterprise,3608.46,,2024-01-11,,2026-06-11,18,87.4,0,0,54,0,AU,E-commerce,small,false,
+EXT-2136,"Williams, Evans and Wilkins",anthonysullivan@hawkins-pierce.com,612.310.0323x651,starter,146.27,,2022-01-30,,2026-06-10,23,85.4,1,1,66,1,SG,InsurTech,mid,false,
+EXT-2137,Osborn and Sons,flamb@martinez-dunlap.com,(796)567-0662,growth,310.38,,2023-09-07,,2026-06-09,17,90.4,0,1,100,0,BR,MarTech,large,false,
+EXT-2138,Hill Group,austinharvey@holland.biz,+1-570-214-6263,starter,117.04,,2024-05-11,,2026-06-08,19,85.8,0,0,100,0,FR,E-commerce,large,false,
+EXT-2139,Casey-Howard,kcooper@morris.org,404.307.8593,growth,531.03,24,2024-04-01,2026-04-01,2026-06-02,33,76.6,0,0,60,0,US,PropTech,small,false,
+EXT-2140,Sandoval LLC,gallagherstacie@bradford.com,(439)555-9059,growth,432.29,12,2022-12-15,2023-12-01,2026-06-08,23,69.3,0,0,64,0,FR,HealthTech,small,false,
+EXT-2141,Weaver-Thompson,davisjesse@smith.com,793-325-2500x29218,starter,74.95,,2023-06-23,,2026-05-12,20,61.6,0,0,63,0,BR,HealthTech,large,false,
+EXT-2142,Bush-Bates,rogersmarcus@oconnor.info,+1-452-289-5392x6442,starter,196.33,,2022-05-20,,2026-06-11,16,46.8,0,0,50,0,BR,SaaS,large,false,
+EXT-2143,"Fry, Myers and Gamble",whitelucas@walker.com,713-655-2157x04331,enterprise,2400.66,12,2024-07-31,2025-07-01,2026-06-01,14,96.6,0,3,49,1,US,SaaS,large,false,
+EXT-2144,Le Inc,akim@wilkerson.biz,(286)717-9327x104,starter,188.77,,2022-04-04,,2026-06-05,15,61.7,0,0,35,0,AU,PropTech,large,false,
+EXT-2145,Lynn-Jones,pamelamartin@payne.com,+1-597-506-2962x015,growth,547.36,24,2024-11-25,2026-11-01,2026-05-30,20,62.3,0,0,85,0,CA,SaaS,small,false,
+EXT-2146,Terry-Bowen,donna43@williams.net,520.450.6149x7310,starter,192.12,,2022-10-07,,2026-06-10,25,74.3,1,2,47,0,CA,LegalTech,small,false,
+EXT-2147,"Carter, Miller and Anthony",kristen77@baker.com,(452)370-4774x3490,growth,325.12,24,2022-11-15,2024-11-01,2026-06-01,29,54.4,0,1,60,0,NL,E-commerce,small,false,
+EXT-2148,Barnett PLC,larellano@spencer.net,(487)393-7416x08989,growth,748.16,,2023-10-16,,2026-06-06,24,66.0,0,0,43,0,FR,InsurTech,small,true,2025-09-07
+EXT-2149,Thompson-Joyce,lindseymartinez@miller-vega.com,+1-929-245-1168x6854,growth,545.92,,2023-07-13,,2026-06-06,14,77.7,0,0,49,0,SG,MarTech,mid,false,
+EXT-2150,"Dean, Mills and Barnes",khernandez@aguilar.com,001-914-285-6467,free,0.00,,2023-07-23,,2026-06-03,25,45.2,0,0,58,1,NL,PropTech,mid,false,
+EXT-2151,Hill and Sons,vwilliams@young.com,6549447132,enterprise,3272.66,12,2023-09-24,2024-09-01,2026-06-10,14,74.6,0,0,66,0,BR,EdTech,small,false,
+EXT-2152,Adams-Butler,lopezjason@figueroa-malone.com,2824148628,starter,121.09,,2023-10-15,,2026-05-31,4,32.3,1,4,-5,4,AU,FinTech,mid,true,2026-02-02
+EXT-2153,Golden and Sons,wrightstephen@bush-hill.info,761.403.5797x27985,growth,306.09,24,2024-02-01,2026-02-01,2026-06-09,18,56.6,0,1,71,0,CA,PropTech,small,false,
+EXT-2154,Curry-Barker,anthony02@chan.com,+1-634-668-0072x2903,enterprise,1761.74,12,2022-11-28,2023-11-01,2026-05-30,22,56.9,0,2,62,0,IN,EdTech,mid,false,
+EXT-2155,Woodard-York,dking@byrd-holloway.biz,001-610-385-8994,free,0.00,,2023-02-12,,2026-02-21,7,20.6,2,3,-4,1,NL,HRTech,large,true,2025-10-21
+EXT-2156,Brown-Mcneil,michelle44@hernandez.com,+1-565-720-7446x660,starter,180.85,,2022-06-21,,2026-06-12,17,63.7,0,0,,0,AU,HRTech,large,false,
+EXT-2157,"Reeves, Parks and Little",qknox@romero-bruce.net,(341)572-4825,enterprise,1523.51,,2023-03-23,,2026-06-08,24,70.9,0,0,40,1,CA,SaaS,large,false,
+EXT-2158,Walker-Savage,vfrench@green-carter.com,809.299.1738x1684,growth,885.83,,2024-11-10,,2026-06-09,20,79.2,0,1,22,0,FR,FinTech,large,false,
+EXT-2159,Taylor and Sons,robert97@stewart.com,001-917-352-5007x432,starter,177.13,,2024-11-06,,2026-06-06,17,49.4,0,0,19,0,DE,E-commerce,small,false,
+EXT-2160,Mendez Ltd,epowell@smith-ferguson.com,6584300335,growth,834.76,,2023-09-03,,2026-05-26,22,76.3,1,1,27,1,FR,InsurTech,small,false,
+EXT-2161,Reyes PLC,gary04@bryant-meyer.net,262-457-5326x03323,starter,94.54,,2023-01-30,,2026-06-02,20,66.4,1,2,28,0,NL,MarTech,large,false,
+EXT-2162,Richardson Ltd,brooksdanielle@dean.com,+1-200-616-7618x4723,enterprise,3243.98,24,2023-09-12,2025-09-01,2026-05-31,21,99.9,0,0,88,0,DE,MarTech,mid,false,
+EXT-2163,Stanley-Bates,cindy26@hunt.com,411-273-9348x3564,free,0.00,,2024-04-01,,2026-06-08,21,74.7,1,1,40,0,IN,LegalTech,mid,false,
+EXT-2164,"Crawford, Clark and Fitzpatrick",jimmy01@conley.info,(618)911-4374,enterprise,4589.97,,2023-04-10,,2026-06-03,25,94.1,0,1,39,0,CA,EdTech,large,false,
+EXT-2165,Garcia and Sons,phelpsmichael@edwards.com,7227557941,starter,133.10,,2022-11-28,,2026-03-11,2,22.0,2,4,14,4,BR,HRTech,small,true,2025-02-26
+EXT-2166,Wilson Group,ynelson@jefferson.com,920-421-6979,starter,80.53,,2022-08-08,,2026-03-30,3,43.5,1,4,25,1,SG,E-commerce,large,true,2023-06-01
+EXT-2167,"James, Howard and Johnson",timothyfreeman@alexander-brown.com,3898935889,starter,74.65,,2022-04-06,,2026-03-25,2,32.4,4,5,,2,US,FinTech,large,true,2024-04-07
+EXT-2168,"Barber, Olson and Alvarado",jhernandez@brown.info,821.575.3540x8386,growth,917.34,12,2022-04-20,2023-04-01,2026-06-02,23,82.3,0,1,,0,FR,PropTech,large,false,
+EXT-2169,Stevens PLC,fmiller@stewart-hooper.com,666-508-8019,free,0.00,,2024-09-22,,2026-04-02,10,38.6,6,14,43,1,CA,InsurTech,small,true,2025-09-08
+EXT-2170,"Powers, Clements and Cox",velasquezmegan@castro-harvey.info,001-757-311-3055x488,starter,57.76,,2023-05-07,,2026-06-03,25,46.7,0,0,70,0,SG,HealthTech,mid,false,
+EXT-2171,Prince Group,lydianewton@rodriguez-carr.com,363-973-5160,enterprise,4860.79,12,2023-09-03,2024-09-01,2026-06-12,23,77.0,1,1,58,0,IN,HRTech,small,false,
+EXT-2172,Barrett-Blanchard,tamarasmith@williams.info,529.622.1699x58669,free,0.00,,2022-09-14,,2026-03-21,5,24.6,2,2,17,1,AU,E-commerce,large,false,
+EXT-2173,Stuart-Waller,iballard@morrison-tanner.net,785-383-3394x5228,growth,588.62,12,2023-05-10,2024-05-01,2026-06-09,26,72.0,1,1,46,0,CA,SaaS,mid,false,
+EXT-2174,Hart-Aguilar,icraig@rich-henderson.com,610.562.0034x24420,free,0.00,,2024-10-22,,2026-02-10,8,33.4,0,5,17,1,IN,HealthTech,large,false,
+EXT-2175,"Johnson, Cervantes and Garcia",juliahoffman@dixon.com,001-906-566-5800x439,free,0.00,,2024-08-01,,2026-06-11,17,76.3,0,1,96,0,DE,MarTech,large,false,
+EXT-2176,"Bush, Holland and Fischer",kimberlybrandt@cole-lucero.com,(628)416-0648,starter,77.85,,2023-05-12,,2026-06-08,36,47.8,2,2,45,0,GB,LegalTech,large,false,
+EXT-2177,Silva LLC,riverajenna@williams.org,5944798515,growth,761.32,12,2024-06-12,2025-06-01,2026-06-07,23,70.1,0,2,84,0,NL,InsurTech,small,false,
+EXT-2178,"Jones, Wagner and Perry",odavis@alvarado.com,539-287-8015x7399,starter,146.37,,2023-02-04,,2026-06-07,22,79.1,0,0,32,1,SG,SaaS,mid,false,
+EXT-2179,"Blackwell, James and Hogan",cruzamber@johnson-black.com,287.370.4358x11288,starter,70.50,,2022-03-26,,2026-05-12,4,27.2,2,9,5,1,BR,MarTech,large,true,2022-11-27
+EXT-2180,Santiago and Sons,nhouston@poole.biz,+1-312-507-5011x0248,free,0.00,,2022-08-16,,2026-03-19,1,11.3,1,5,,0,GB,FinTech,mid,true,2023-12-01
+EXT-2181,Russell-Hayes,bhamilton@nunez-nichols.org,390-615-8144,growth,474.43,24,2024-04-07,2026-04-01,2026-06-05,17,52.5,1,1,46,0,US,E-commerce,large,false,
+EXT-2182,James-Short,wellsamanda@francis.com,+1-824-350-8821x0099,growth,826.45,,2024-03-14,,2026-06-10,23,87.8,1,2,53,0,GB,LegalTech,mid,false,
+EXT-2183,Clark-Figueroa,jason82@white.com,612.390.8781,enterprise,3962.80,12,2024-05-20,2025-05-01,2026-05-27,18,43.0,1,2,86,0,CA,FinTech,small,false,
+EXT-2184,Garcia-Swanson,wlynn@lambert.com,791-735-7759x4929,growth,557.63,12,2024-07-01,2025-07-01,2026-06-08,28,75.4,0,1,66,0,SG,FinTech,small,false,
+EXT-2185,Jackson-Edwards,jenniferdavidson@larsen-taylor.com,577.654.7812x9142,growth,734.26,,2023-01-22,,2026-06-10,21,79.4,0,0,55,0,IN,EdTech,small,false,
+EXT-2186,"Mercado, Jones and Jones",atkinsoncrystal@riley.com,+1-648-487-2563,enterprise,2612.95,,2023-08-26,,2026-06-08,18,74.6,1,3,79,0,DE,MarTech,large,false,
+EXT-2187,Mason-Davis,wayne39@martin.com,001-392-675-0373,free,0.00,,2022-03-02,,2026-06-07,21,60.9,3,3,61,0,AU,EdTech,small,false,
+EXT-2188,Young-Barnett,paul70@hooper.com,001-384-649-8926x659,free,0.00,,2025-02-17,,2026-03-14,4,38.4,1,3,10,1,DE,InsurTech,large,true,2025-11-12
+EXT-2189,Kaufman-Walker,wgomez@sparks-eaton.com,327.523.1843x22259,free,0.00,,2024-12-31,,2026-06-10,18,63.9,2,3,59,0,DE,EdTech,large,false,
+EXT-2190,Shepherd-Cortez,eleonard@garza.biz,2304299228,growth,432.04,12,2024-02-26,2025-02-01,2026-06-01,18,78.9,0,1,52,0,SG,HealthTech,large,false,
+EXT-2191,Jackson and Sons,kgreene@smith.com,437-497-7236,enterprise,3611.22,24,2024-03-19,2026-03-01,2026-06-07,14,60.7,0,1,74,1,FR,EdTech,small,false,
+EXT-2192,"Keller, Baker and Ramsey",sandra99@hall.com,403-988-6291,enterprise,2476.53,,2023-11-02,,2026-05-02,3,24.7,3,10,-18,1,BR,EdTech,small,false,
+EXT-2193,"Greene, Rich and Schmidt",davisdonna@ryan.biz,465.608.6376x59916,free,0.00,,2025-02-03,,2026-06-09,21,85.9,2,3,38,0,AU,LegalTech,small,false,
+EXT-2194,Cannon-Kent,campbellnancy@scott-smith.com,001-781-380-6356,growth,672.13,24,2022-12-12,2024-12-01,2026-05-28,28,100.0,0,1,39,0,CA,LegalTech,small,false,
+EXT-2195,Simmons PLC,jose86@diaz.com,(488)372-5887x44956,starter,57.82,,2025-02-26,,2026-03-06,4,31.8,0,3,50,4,AU,InsurTech,small,false,
+EXT-2196,"Hall, Logan and Avery",lewisrichard@owen-mendez.com,(360)612-7961,starter,56.79,,2024-11-29,,2026-05-07,3,30.3,3,3,,0,NL,PropTech,mid,true,2025-12-11
+EXT-2197,Wood PLC,ramseysarah@mendez-meyer.org,2275703843,growth,414.94,12,2022-12-29,2023-12-01,2026-06-09,17,75.1,0,2,46,0,GB,EdTech,large,false,
+EXT-2198,"Jackson, Johnson and Allen",cantrellchristopher@chan-gomez.biz,(693)580-1184x8955,growth,821.62,12,2023-08-12,2024-08-01,2026-04-23,1,20.9,3,7,16,1,BR,MarTech,mid,true,2024-12-12
+EXT-2199,"Mccarty, Gibson and Powell",greenrichard@hansen.com,918-248-9476x97357,starter,141.04,,2024-11-28,,2026-06-05,16,75.7,0,1,60,0,AU,MarTech,small,false,
+EXT-2200,Wilson-Jones,ericahall@gutierrez-gomez.net,4439416518,free,0.00,,2023-03-15,,2026-05-25,17,85.6,0,2,36,0,IN,PropTech,mid,true,2026-01-11
+EXT-2201,Gomez-Shannon,ian37@gonzalez.com,933.295.2111,growth,589.33,12,2022-05-07,2023-05-01,2026-06-06,21,76.0,0,3,37,0,BR,HRTech,small,false,
+EXT-2202,"Rubio, Charles and Watson",travis94@white-duran.net,763-892-0867x808,starter,177.43,,2022-04-15,,2026-04-21,6,2.1,4,10,25,1,DE,LegalTech,mid,true,2025-01-22
+EXT-2203,"Parsons, Bryant and Martinez",astewart@craig.org,655-994-2843,growth,507.98,24,2023-12-15,2025-12-01,2026-06-07,20,92.7,0,1,64,0,SG,SaaS,mid,false,
+EXT-2204,"Cooper, White and Coleman",xhaynes@dickerson-ramirez.com,001-829-531-4386,starter,148.93,,2023-04-24,,2026-06-11,24,51.1,0,1,63,0,SG,FinTech,small,false,
+EXT-2205,Marsh Ltd,thomassmith@porter-cowan.net,+1-357-444-8906,starter,160.92,,2023-02-28,,2026-06-11,19,40.8,0,0,62,0,AU,SaaS,mid,true,2025-07-24
+EXT-2206,Lewis LLC,gcombs@garner-green.com,+1-584-450-6159,enterprise,2167.25,,2024-03-24,,2026-06-03,18,74.0,0,2,79,0,BR,SaaS,large,false,
+EXT-2207,Kelly-Nunez,champton@james.info,+1-722-756-9961x1253,growth,511.55,,2023-07-20,,2026-05-23,10,10.2,1,5,-9,4,NL,E-commerce,mid,true,2024-12-11
+EXT-2208,"Carter, Adams and Newman",pam59@sheppard.com,(334)913-2611,starter,54.84,,2022-11-28,,2026-02-11,6,10.1,1,4,,2,IN,PropTech,small,true,2026-02-22
+EXT-2209,"Brown, Wise and Warren",garciachristine@pena.com,234.772.2820,growth,940.50,12,2022-09-06,2023-09-01,2026-06-06,26,71.3,0,0,84,0,US,EdTech,mid,false,
+EXT-2210,Lin-Mcdonald,amy28@garza.org,(488)645-7831x74564,starter,60.63,,2024-06-30,,2026-06-08,19,66.7,0,0,66,0,NL,PropTech,small,false,
+EXT-2211,Smith and Sons,justin80@weeks.com,001-464-893-0853x686,growth,842.01,24,2023-07-07,2025-07-01,2026-06-02,18,85.6,1,1,50,0,SG,E-commerce,large,false,
+EXT-2212,Walker-Miller,zacharymarsh@aguirre.net,963-512-2417x974,starter,84.50,,2023-03-08,,2026-01-13,2,39.1,4,7,-24,2,SG,HRTech,small,true,2025-05-10
+EXT-2213,Smith-Williams,lopezcurtis@martinez-gonzales.com,912.707.3564,starter,124.56,,2022-02-27,,2026-04-24,3,39.6,1,4,-28,1,GB,EdTech,large,true,2024-05-04
+EXT-2214,Terry-Johnson,bridgesstephanie@adams.com,+1-872-934-6013,growth,515.03,,2022-11-11,,2026-06-09,17,64.7,0,1,61,0,BR,PropTech,small,false,
+EXT-2215,Rojas Inc,stevenwise@wade.com,520-888-1474x35031,growth,888.85,,2023-11-08,,2026-05-27,18,69.6,0,1,65,0,FR,EdTech,small,false,
+EXT-2216,Smith-Bauer,fosterjohn@perkins.info,001-292-751-3271x950,starter,167.02,,2022-08-30,,2026-03-22,7,25.1,2,3,-45,2,US,HealthTech,small,true,2024-10-26
+EXT-2217,"Moore, Herrera and Rodriguez",jhall@sherman.com,6659240778,starter,69.68,,2024-02-28,,2026-06-08,26,73.2,0,0,58,0,DE,FinTech,large,false,
+EXT-2218,Knight PLC,mario74@rocha.com,744.585.7086x209,starter,114.01,,2024-06-15,,2026-02-21,2,41.4,1,3,12,2,CA,MarTech,large,true,2025-09-07
+EXT-2219,Le-Barrett,rlee@cannon-moore.com,565-311-8102x20317,growth,574.68,,2023-08-24,,2026-06-04,23,100.0,0,0,84,0,AU,HealthTech,large,false,
+EXT-2220,Duncan Group,sfox@scott.com,7372170586,starter,151.37,,2022-11-21,,2026-06-05,24,52.7,1,2,42,0,SG,FinTech,small,false,
+EXT-2221,"Baker, Williams and Jones",christian38@garcia.net,(933)883-9288x6195,growth,800.67,24,2023-06-23,2025-06-01,2026-06-07,18,82.8,0,2,70,0,SG,InsurTech,mid,false,
+EXT-2222,Jackson and Sons,qwagner@ferguson.info,(558)855-6659x398,growth,782.79,,2023-11-02,,2026-06-10,23,38.0,2,2,50,0,CA,HRTech,small,false,
+EXT-2223,"Howe, King and Nixon",amoyer@johnson.com,404-333-5048x8899,free,0.00,,2022-01-14,,2026-06-06,17,42.8,0,0,68,0,AU,MarTech,small,false,
+EXT-2224,Stevens and Sons,josephpreston@hall.com,001-369-631-5727,starter,95.08,,2022-08-19,,2026-06-09,12,99.5,1,1,30,0,AU,MarTech,small,false,
+EXT-2225,Cross PLC,dmiller@bailey-montoya.biz,739-406-0480,growth,415.65,12,2024-12-21,2025-12-01,2026-06-03,24,54.2,0,0,78,0,IN,LegalTech,large,false,
+EXT-2226,Shaw-Walker,nunezwendy@mullins-johnston.com,264.862.2517,enterprise,4576.90,12,2024-01-23,2025-01-01,2026-06-03,17,50.5,0,1,58,0,IN,E-commerce,mid,false,
+EXT-2227,Miller-Shaw,kathleencastillo@freeman.org,789.383.3146,growth,467.52,12,2022-09-10,2023-09-01,2026-05-29,22,69.7,0,1,38,0,FR,E-commerce,mid,false,
+EXT-2228,Powers Group,michael55@rios.com,+1-279-527-0335x211,growth,720.85,24,2022-10-12,2024-10-01,2026-05-22,26,91.9,0,0,41,0,GB,LegalTech,small,false,
+EXT-2229,"Mcintosh, Melton and Wilkins",cooperlinda@cole-johnson.com,001-283-638-8487x920,enterprise,2281.63,12,2023-04-06,2024-04-01,2026-06-01,29,97.5,0,0,59,0,GB,E-commerce,large,false,
+EXT-2230,Brown and Sons,brian01@guerrero-alvarado.com,904-363-6815,growth,419.23,,2024-04-09,,2026-05-28,3,29.0,2,8,10,5,AU,PropTech,small,true,2025-12-06
+EXT-2231,Gonzalez Group,williamssandra@cook-long.com,6558543840,enterprise,4918.03,24,2022-05-15,2024-05-01,2026-06-04,25,71.7,0,1,46,0,GB,HRTech,small,false,
+EXT-2232,Raymond LLC,edwardprince@taylor.org,+1-536-439-2649x5782,enterprise,3191.67,24,2023-11-06,2025-11-01,2026-05-31,21,65.1,0,0,36,0,US,HRTech,small,false,
+EXT-2233,"Weaver, Mcbride and Huffman",haley82@forbes-daugherty.com,+1-892-851-8812x5205,growth,555.46,,2022-04-12,,2026-06-11,12,85.2,0,1,26,0,CA,FinTech,large,false,
+EXT-2234,Ramos-Peck,edwin31@lopez.org,499-993-9330x517,free,0.00,,2023-01-19,,2026-06-07,26,73.1,0,0,60,0,AU,SaaS,small,false,
+EXT-2235,"Banks, White and Hughes",mtaylor@johnson.com,(233)831-2797x57366,free,0.00,,2024-09-28,,2026-04-14,5,26.2,1,7,7,1,AU,EdTech,mid,true,2026-03-19
+EXT-2236,"Edwards, Carr and Newton",meyershannon@rich.net,+1-960-886-8034,starter,76.62,,2023-06-03,,2026-05-06,2,11.8,3,3,6,0,SG,EdTech,mid,false,
+EXT-2237,Ayala-Mitchell,robertoaustin@vaughn.info,+1-271-481-2982x6657,starter,56.46,,2023-10-15,,2026-03-14,4,18.8,1,4,-4,4,GB,PropTech,small,true,2025-12-16
+EXT-2238,Garza-Marquez,nicoledavis@holt-meadows.com,001-811-817-5186x892,starter,166.74,,2023-07-21,,2026-06-09,19,90.0,0,1,69,0,NL,E-commerce,mid,false,
+EXT-2239,Tate LLC,fernandothomas@williams.info,221-923-0940x7778,growth,998.09,24,2023-12-05,2025-12-01,2026-05-26,27,69.7,1,2,,0,GB,PropTech,small,false,
+EXT-2240,Robinson Ltd,cchavez@burke.com,+1-749-283-0220,starter,139.34,,2022-10-20,,2026-05-31,19,56.4,1,1,88,1,BR,FinTech,mid,false,
+EXT-2241,Nash Ltd,mark10@butler.com,+1-749-899-8279x5014,growth,823.12,24,2022-05-28,2024-05-01,2026-06-10,17,52.3,2,2,,0,DE,PropTech,mid,false,
+EXT-2242,Chang PLC,carterdennis@villarreal.com,001-739-601-9817x946,starter,70.80,,2024-05-20,,2026-06-08,22,99.6,1,2,45,0,NL,SaaS,mid,false,
+EXT-2243,"Andrews, Hanson and Ho",ostone@vasquez-white.org,843.801.0713,growth,950.13,12,2023-11-22,2024-11-01,2026-06-11,17,94.9,1,1,69,0,AU,InsurTech,large,false,
+EXT-2244,Cook PLC,alexharris@king-jones.com,785.901.5569x90235,starter,73.51,,2024-05-23,,2026-06-06,20,86.5,0,1,23,0,CA,InsurTech,small,false,
+EXT-2245,Robles-Brewer,dmoore@huang.com,249.758.8039x55124,enterprise,3760.96,,2024-12-03,,2026-06-06,16,95.8,0,0,,1,BR,HRTech,large,false,
+EXT-2246,Sims-Kirby,hlopez@thornton-edwards.com,361-773-5743x842,enterprise,4085.66,24,2022-11-23,2024-11-01,2026-06-04,20,66.6,0,1,39,0,CA,InsurTech,mid,false,
+EXT-2247,Strickland Inc,zhunter@stein-moore.com,384.252.1823x0768,growth,337.64,,2023-02-11,,2026-05-23,25,78.4,0,1,66,0,GB,LegalTech,mid,false,
+EXT-2248,Randolph-Mcdaniel,cookpamela@meyer.com,7949353344,starter,148.49,,2022-06-13,,2026-05-31,3,35.1,3,5,29,0,NL,E-commerce,mid,false,
+EXT-2249,"Wilson, Hernandez and Hill",mullenanita@clark.net,442-249-3214x95870,growth,849.18,12,2024-09-21,2025-09-01,2026-06-07,18,70.1,0,0,77,0,GB,HRTech,mid,false,
+EXT-2250,Berger-Williams,bbrown@white-carlson.org,+1-979-354-5381x7921,enterprise,4336.96,,2024-04-23,,2026-06-10,16,67.3,1,1,47,0,AU,InsurTech,mid,false,
+EXT-2251,Collins-Newman,oruiz@callahan.com,(962)955-7701x715,growth,768.64,12,2022-06-05,2023-06-01,2026-05-28,25,87.2,0,1,75,1,BR,SaaS,small,false,
+EXT-2252,Campbell LLC,williamsullivan@robles.com,+1-476-996-3938,growth,527.19,12,2023-02-09,2024-02-01,2026-04-08,4,43.1,0,4,-11,1,IN,HealthTech,large,true,2025-01-27
+EXT-2253,Jones-Clark,bmueller@cobb.com,001-897-319-9758x172,growth,939.68,12,2022-02-09,2023-02-01,2026-06-03,19,58.8,1,3,85,0,FR,EdTech,large,false,
+EXT-2254,"Rodriguez, Cervantes and Wise",pmurphy@brown.org,001-602-627-8469x973,starter,145.25,,2023-09-07,,2026-02-19,3,10.0,0,5,27,1,NL,HRTech,mid,true,2023-10-16
+EXT-2255,Robbins-Herman,aguilarcheryl@powell.com,+1-800-885-1403,starter,137.62,,2024-04-29,,2026-05-24,3,0.0,1,4,5,3,AU,HealthTech,large,false,
+EXT-2256,"Flores, Reyes and James",elainewells@peters.biz,(842)420-1027,growth,881.60,24,2022-08-23,2024-08-01,2026-06-10,15,77.4,0,0,59,0,NL,HRTech,mid,false,
+EXT-2257,Taylor Group,senglish@conrad.biz,+1-976-553-2690,free,0.00,,2024-01-13,,2026-06-05,28,54.1,0,1,,0,GB,FinTech,large,false,
+EXT-2258,"Shaw, Jenkins and Payne",arthur09@bush-wilson.info,001-912-384-7818x913,growth,589.18,,2024-07-22,,2026-06-03,21,93.7,0,0,44,1,BR,LegalTech,small,false,
+EXT-2259,"Schultz, Yates and Edwards",bergeramanda@harrison.info,001-656-654-4209,starter,90.33,,2023-11-18,,2026-06-09,24,76.4,2,2,63,0,NL,LegalTech,large,false,
+EXT-2260,Soto PLC,ashleydouglas@lamb-weber.com,312.481.4429x4440,starter,141.45,,2024-01-15,,2026-05-27,9,15.9,4,7,23,1,NL,FinTech,large,true,2026-01-02
+EXT-2261,"Stevenson, Hopkins and Wood",josehaynes@white-rose.com,212-692-7663x72395,growth,391.72,,2022-07-16,,2026-06-10,17,79.2,2,2,29,2,GB,FinTech,mid,false,
+EXT-2262,Williams Group,ealvarez@vaughan.biz,742.886.0476x5801,growth,351.29,,2024-01-15,,2026-06-03,23,75.0,0,2,47,0,IN,EdTech,mid,false,
+EXT-2263,"Hull, Garrison and Rogers",leah49@murray-leonard.com,001-393-385-2580x010,growth,683.63,,2022-09-25,,2026-06-10,16,65.7,3,3,72,0,US,InsurTech,mid,false,
+EXT-2264,"Griffin, Robinson and Campbell",austinharvey@mays.com,+1-611-919-2692x124,growth,658.60,24,2023-05-31,2025-05-01,2026-06-08,19,74.2,0,1,77,1,DE,HRTech,mid,false,
+EXT-2265,"Mayer, Fowler and Livingston",kayla54@norman.com,(465)904-4271x7396,growth,724.17,12,2022-02-05,2023-02-01,2026-06-08,23,52.3,0,1,60,0,SG,PropTech,small,false,
+EXT-2266,Thomas Group,christinarodriguez@baldwin-garcia.com,894-670-7200,free,0.00,,2024-03-19,,2026-05-29,21,69.2,0,0,82,0,SG,FinTech,large,false,
+EXT-2267,Graves Group,robertsonshelby@mendoza-powell.com,+1-730-667-1985,starter,133.22,,2023-07-06,,2026-01-12,2,19.2,4,7,9,1,GB,LegalTech,large,false,
+EXT-2268,Brown-Shea,diazmelissa@miller-stevens.com,+1-932-580-6346x1571,starter,130.91,,2022-04-09,,2025-11-22,4,30.3,3,8,-23,1,US,E-commerce,small,false,
+EXT-2269,Johnson Inc,tracybrown@schneider.info,9054050613,enterprise,3191.42,,2024-01-17,,2026-04-05,5,9.2,4,6,-2,2,BR,EdTech,large,true,2025-08-04
+EXT-2270,"Riley, Buckley and Johnson",tracysmith@williams.com,+1-504-317-9291x1179,growth,306.10,24,2022-07-17,2024-07-01,2026-06-09,22,87.8,2,2,69,0,SG,SaaS,large,false,
+EXT-2271,Simmons Ltd,rnguyen@gardner.com,001-909-525-1142x625,enterprise,4568.30,,2022-06-30,,2026-06-08,28,70.2,1,2,,0,GB,HealthTech,large,false,
+EXT-2272,"Williams, Garcia and Boone",bstrickland@miller-smith.com,001-594-467-2324x876,free,0.00,,2022-09-12,,2026-06-02,19,95.1,0,0,,0,IN,MarTech,small,false,
+EXT-2273,"Holt, Carlson and Love",burtonkimberly@barnes-grant.com,581-695-8837,free,0.00,,2024-07-23,,2026-06-11,20,67.6,0,0,35,0,US,FinTech,small,false,
+EXT-2274,Lee and Sons,kjimenez@livingston.com,(345)397-0108x22078,starter,101.29,,2024-07-26,,2026-06-12,19,55.3,0,0,72,0,IN,SaaS,small,false,
+EXT-2275,Griffith PLC,robert53@nguyen.com,001-963-463-1797x062,enterprise,1952.38,24,2022-05-15,2024-05-01,2026-06-01,35,62.4,1,1,41,0,IN,HRTech,small,false,
+EXT-2276,Brooks-Ellis,crystalcantrell@rogers.org,5426177625,starter,85.75,,2025-01-26,,2026-06-09,31,73.5,1,1,,0,US,SaaS,small,false,
+EXT-2277,"Moore, Norton and Cisneros",belindatran@miller.info,797.874.0633,growth,727.46,,2024-03-07,,2026-06-10,24,64.1,0,0,53,1,IN,LegalTech,small,false,
+EXT-2278,"Walker, Pennington and Shah",butlerbradley@quinn-gordon.biz,667.517.7318x06325,starter,134.58,,2022-11-19,,2026-06-06,19,76.8,0,0,75,0,NL,HRTech,mid,false,
+EXT-2279,"Duarte, Smith and Caldwell",jacquelinehodge@silva.com,001-862-657-0165x804,growth,802.62,12,2022-05-31,2023-05-01,2026-06-04,20,62.0,2,2,88,0,SG,HRTech,small,false,
+EXT-2280,"Shah, Daniels and Norton",olivermatthew@robertson.com,4163579055,free,0.00,,2024-08-28,,2026-04-15,2,15.3,0,6,-24,0,IN,MarTech,large,true,2025-05-05
+EXT-2281,"Fletcher, Harris and Zavala",amberbanks@crosby.com,001-335-954-8640x155,starter,174.73,,2022-10-14,,2026-05-14,4,39.7,0,4,15,3,US,FinTech,mid,true,2025-02-27
+EXT-2282,"Patel, Bryan and Lam",zoliver@dougherty.com,471.616.2411,growth,470.73,,2022-02-13,,2026-06-09,14,59.2,1,1,45,0,DE,FinTech,mid,false,
+EXT-2283,Terry Group,nancymeyer@johnson.com,756.770.4310x3856,growth,446.12,,2022-03-04,,2026-05-30,26,55.2,0,0,,0,GB,LegalTech,mid,false,
+EXT-2284,Watkins-Terry,kellis@villanueva.com,437-654-0254x729,enterprise,3755.31,12,2022-03-10,2023-03-01,2026-05-26,19,50.4,1,1,57,1,BR,InsurTech,small,false,
+EXT-2285,Mcpherson Ltd,evanwilson@andrews-alexander.com,(438)605-5257,growth,671.05,24,2023-02-09,2025-02-01,2026-06-11,16,54.5,0,2,52,0,IN,HRTech,large,false,
+EXT-2286,Knapp Group,dmack@moore-cordova.net,354.674.9297x51702,growth,534.86,24,2022-09-24,2024-09-01,2026-06-10,14,66.6,1,2,66,0,SG,MarTech,large,false,
+EXT-2287,Morales and Sons,uhoward@franklin.org,234.730.1871x86375,starter,190.41,,2022-04-29,,2026-06-09,20,68.6,1,2,55,0,FR,MarTech,mid,false,
+EXT-2288,Hernandez-Nash,paul04@bell-madden.net,437-367-4266,starter,180.36,,2022-10-19,,2026-05-28,15,90.8,0,1,47,0,CA,MarTech,large,false,
+EXT-2289,Clark Group,carl96@smith.com,(628)979-2326x48704,starter,139.17,,2022-03-19,,2026-06-10,25,71.3,0,0,77,0,SG,EdTech,small,false,
+EXT-2290,"Singh, Walker and Moody",joseblanchard@kennedy.biz,(773)901-4719,growth,602.80,24,2023-07-19,2025-07-01,2026-06-10,16,70.5,0,1,,0,BR,FinTech,small,false,
+EXT-2291,"Graham, Scott and Jennings",brooksjessica@bruce.org,7258725204,starter,123.23,,2023-06-04,,2025-07-05,5,27.8,1,4,20,1,NL,InsurTech,large,true,2025-03-25
+EXT-2292,"Barr, Kelly and Roberts",palmerkatie@duran.com,+1-755-444-5189,growth,595.54,12,2022-09-18,2023-09-01,2025-11-02,5,28.7,4,9,,2,SG,SaaS,mid,true,2024-12-06
+EXT-2293,Taylor LLC,kimberly65@garcia.net,938.398.8816,growth,560.86,,2022-09-28,,2026-06-05,17,74.9,0,1,80,0,FR,SaaS,small,false,
+EXT-2294,Fuentes Inc,sbailey@taylor-ramos.org,352.840.1322x34232,starter,119.42,,2024-01-07,,2026-06-05,25,79.7,0,0,83,0,SG,LegalTech,small,false,
+EXT-2295,"Hines, Rodriguez and Smith",ctodd@rodriguez.net,001-307-314-0140,growth,334.47,12,2023-08-03,2024-08-01,2026-06-06,20,59.2,0,0,54,1,DE,FinTech,large,false,
+EXT-2296,"Harris, Santana and Lopez",anthony24@bailey.org,589.611.9083,starter,174.98,,2023-11-10,,2026-06-02,28,80.6,0,1,42,0,NL,FinTech,small,false,
+EXT-2297,Winters PLC,beltrancorey@knapp.info,(892)371-2566x383,growth,927.84,,2023-03-17,,2026-06-02,27,67.5,0,0,39,0,US,MarTech,large,false,
+EXT-2298,Martinez-Rodriguez,tylerward@hawkins-williams.com,516.347.9473x8646,growth,861.34,,2024-01-16,,2026-06-07,23,72.0,3,4,97,0,SG,E-commerce,large,false,
+EXT-2299,Crosby-Richardson,lutztravis@sanders.com,526-769-1215,free,0.00,,2022-10-10,,2026-01-18,1,51.6,1,5,9,0,GB,InsurTech,large,false,
+EXT-2300,Larson Group,hallroger@ramirez-reeves.org,001-646-457-9678,enterprise,3527.95,,2022-10-11,,2026-05-28,18,61.7,0,0,,1,DE,HealthTech,mid,false,
+EXT-2301,Rodriguez-King,ihall@garcia.com,902.969.5249x9118,starter,148.10,,2022-05-22,,2026-06-12,19,56.9,0,0,59,0,IN,HRTech,mid,false,
+EXT-2302,Carter Group,iwagner@pacheco-fernandez.com,001-606-416-7567x700,enterprise,2786.28,24,2023-08-31,2025-08-01,2026-06-01,25,55.7,0,1,59,0,FR,EdTech,mid,false,
+EXT-2303,Jordan-Edwards,hfreeman@leonard.org,678.728.0647x9695,growth,340.15,,2022-08-11,,2026-06-11,20,61.9,1,1,30,1,NL,E-commerce,mid,false,
+EXT-2304,Johnson Inc,marybailey@silva.biz,565-656-5033,growth,723.18,12,2023-05-12,2024-05-01,2026-05-26,15,66.7,0,0,30,0,IN,InsurTech,large,false,
+EXT-2305,"Miller, Watts and Melton",morganandrew@johnson-barrett.biz,001-886-840-7905,free,0.00,,2022-12-26,,2026-06-10,26,57.6,0,1,57,0,GB,LegalTech,small,false,
+EXT-2306,Armstrong-Stokes,vazquezjamie@shaw-hubbard.com,(594)656-3718,growth,783.35,12,2023-10-31,2024-10-01,2026-06-03,25,91.8,0,0,58,0,CA,SaaS,large,false,
+EXT-2307,Williams-Davies,nballard@rubio.org,741-598-7635x14846,growth,872.82,12,2022-11-06,2023-11-01,2026-06-09,27,95.1,0,0,47,0,US,MarTech,large,false,
+EXT-2308,Morales-Weber,jpowers@ibarra.net,(297)537-4896,growth,616.12,,2023-06-22,,2026-06-06,19,62.2,0,0,58,0,SG,LegalTech,small,false,
+EXT-2309,Ford-Allen,megan65@walters.com,924-993-6312x3034,growth,667.40,,2024-09-05,,2026-06-08,24,69.4,1,2,66,0,IN,EdTech,large,false,
+EXT-2310,"Esparza, Henderson and Bullock",eriktaylor@clarke-ramirez.net,(307)800-1594,free,0.00,,2024-06-30,,2026-05-29,2,14.4,4,7,35,2,NL,InsurTech,large,true,2026-05-29
+EXT-2311,Powers-Blackwell,uhahn@young.net,389-784-7139,starter,81.25,,2024-03-22,,2026-06-09,19,69.1,0,1,32,2,AU,HealthTech,large,false,
+EXT-2312,Collier-Mclaughlin,selenarobinson@thompson.info,(449)707-8515x86734,starter,58.56,,2024-11-13,,2026-04-22,3,21.8,6,7,38,2,GB,FinTech,large,true,2025-02-28
+EXT-2313,Baldwin-Underwood,brewerrebecca@skinner.com,001-234-886-4518x376,free,0.00,,2024-12-06,,2026-03-03,6,55.6,10,12,,3,FR,MarTech,small,true,2025-08-15
+EXT-2314,Turner-Mayer,kennethvillarreal@moon.com,001-360-741-7765x612,starter,75.36,,2023-11-21,,2026-05-25,24,60.2,1,3,36,0,DE,E-commerce,large,false,
+EXT-2315,Guzman-Li,shawn00@may.com,5634459112,growth,977.17,,2022-04-21,,2026-05-30,16,66.1,1,1,50,0,FR,HealthTech,mid,false,
+EXT-2316,"Jennings, Sparks and Flores",irusso@thompson-watkins.com,531-365-2669x3008,growth,572.97,,2024-06-05,,2026-06-09,22,71.6,0,0,62,0,FR,LegalTech,mid,false,
+EXT-2317,Gonzalez-Haynes,brandonwilliamson@green.org,508-667-7133,starter,194.13,,2024-05-09,,2026-06-09,21,83.9,0,1,66,0,FR,SaaS,mid,false,
+EXT-2318,Francis-Reyes,mgates@carney.com,(326)220-4439x73597,starter,142.89,,2022-02-01,,2026-06-07,21,66.8,0,1,51,0,NL,LegalTech,small,false,
+EXT-2319,Anderson-Morris,tmcdaniel@erickson-fitzgerald.com,218-200-5375,growth,386.54,12,2024-10-22,2025-10-01,2026-06-07,16,80.1,0,2,55,0,NL,InsurTech,small,false,
+EXT-2320,Wagner-James,ilambert@williams.info,672-715-8624x15027,growth,450.93,12,2023-12-09,2024-12-01,2026-06-11,16,69.2,0,0,79,0,CA,LegalTech,mid,false,
+EXT-2321,Campbell-Mcdowell,zachary62@doyle-henry.com,+1-970-632-0320,starter,84.24,,2023-06-18,,2026-05-17,25,71.5,2,2,73,0,NL,E-commerce,large,false,
+EXT-2322,Mccarthy Group,carneysara@alexander.net,677.512.1513x4228,starter,68.57,,2022-10-24,,2026-03-17,1,30.3,7,9,-10,1,US,E-commerce,mid,false,
+EXT-2323,"Bolton, Smith and Wang",robertjones@rhodes-clay.com,616-259-1520x1777,starter,159.32,,2024-02-22,,2026-03-14,5,7.1,5,13,-25,1,GB,SaaS,mid,true,2024-12-15
+EXT-2324,Booker-Douglas,unguyen@meadows.com,+1-845-301-8961x6423,growth,488.60,12,2022-05-14,2023-05-01,2026-06-08,18,60.3,0,1,53,0,DE,E-commerce,large,false,
+EXT-2325,Phelps and Sons,schan@goodwin.info,(849)325-1583x77674,starter,142.50,,2023-10-28,,2026-05-28,27,62.6,0,1,,0,FR,PropTech,mid,false,
+EXT-2326,Shepherd-Austin,fmccoy@palmer.com,+1-427-688-1476x1742,starter,77.78,,2024-06-23,,2026-06-06,24,87.1,0,0,,0,BR,SaaS,small,false,
+EXT-2327,Mills LLC,arnoldsamantha@rodriguez.org,254-391-8017x226,free,0.00,,2025-01-25,,2026-03-18,7,52.3,4,11,-20,0,BR,HRTech,mid,true,2025-07-19
+EXT-2328,Mcdowell-Evans,ctodd@morton.com,221.894.1680,starter,104.26,,2022-08-25,,2026-06-08,24,68.6,2,2,80,0,CA,LegalTech,small,false,
+EXT-2329,Smith Ltd,zstevens@church.org,+1-256-541-2203x103,enterprise,1942.44,12,2022-07-17,2023-07-01,2026-06-03,24,79.5,0,1,,0,FR,HealthTech,small,false,
+EXT-2330,Wong-Santos,ywilkinson@lee.info,(801)222-7770x79334,growth,492.75,24,2023-04-11,2025-04-01,2026-06-08,16,76.9,1,1,78,0,CA,SaaS,large,false,
+EXT-2331,Smith-Mccoy,fpetty@lane.com,767.389.9730x8069,starter,120.51,,2023-10-13,,2026-06-07,19,72.9,0,1,66,1,CA,SaaS,small,false,
+EXT-2332,Orozco-Butler,nwilson@reed.com,001-637-857-3839x597,starter,105.84,,2023-12-30,,2026-04-28,4,24.0,2,7,40,5,GB,HealthTech,large,true,2025-04-20
+EXT-2333,Whitaker-Nunez,laura29@campbell.com,+1-272-223-2971x6743,growth,711.41,,2023-08-25,,2026-06-07,17,57.7,2,3,73,0,CA,HealthTech,large,false,
+EXT-2334,Ibarra-Kelly,greggvillarreal@johnson.org,618.437.4550,starter,72.11,,2024-04-08,,2026-04-18,5,44.6,3,6,7,5,IN,E-commerce,mid,true,2025-10-29
+EXT-2335,"Russo, Munoz and Garcia",housesamuel@estes-campos.com,+1-691-980-8121x352,enterprise,4834.74,12,2023-02-12,2024-02-01,2026-05-16,17,78.9,1,2,,0,US,FinTech,large,false,
+EXT-2336,"Jimenez, Harrell and Moore",matthew21@gonzales.com,875.748.2145,growth,837.17,12,2024-06-22,2025-06-01,2026-06-08,26,59.1,0,1,65,0,SG,E-commerce,small,false,
+EXT-2337,"Ortega, Hernandez and Molina",icobb@gutierrez-ortiz.info,250.872.0811x55626,starter,156.45,,2024-06-19,,2026-04-16,3,15.3,5,5,,2,IN,PropTech,mid,true,2025-05-19
+EXT-2338,Keller Ltd,rachelbrown@whitney.com,(968)745-5048x92673,starter,107.69,,2024-03-13,,2026-06-08,19,64.2,0,0,73,0,BR,HRTech,mid,true,2025-11-10
+EXT-2339,"Sullivan, Gonzalez and Turner",medinapeter@singh.com,218.684.8520,growth,507.83,,2024-01-01,,2026-06-09,18,73.1,0,2,51,0,CA,InsurTech,large,false,
+EXT-2340,Collier LLC,hbenitez@brown.com,501-574-9075,free,0.00,,2022-09-06,,2026-06-06,29,44.8,1,1,44,0,AU,PropTech,large,false,
+EXT-2341,Evans-Estrada,jenniferstone@garcia.org,257.812.6611,enterprise,4945.84,24,2022-02-10,2024-02-01,2026-05-31,0,5.5,4,6,-2,3,DE,InsurTech,small,false,
+EXT-2342,Alvarez Group,woodalicia@hansen.org,367.576.2282x7728,starter,191.38,,2025-02-13,,2026-04-22,7,15.5,5,6,,1,DE,E-commerce,small,false,
+EXT-2343,Kennedy-Francis,sandra19@rodriguez-wood.com,9822154544,free,0.00,,2022-02-05,,2026-06-10,24,70.3,0,0,80,0,CA,LegalTech,small,false,
+EXT-2344,Thomas PLC,twilliams@lewis-fuentes.info,6189510679,growth,626.60,12,2024-07-06,2025-07-01,2026-05-31,22,88.1,2,2,48,0,CA,MarTech,large,false,
+EXT-2345,Harrington-Alvarez,kathleenwagner@gill-contreras.com,001-651-399-6636x580,growth,521.44,24,2024-02-15,2026-02-01,2026-06-07,20,74.1,0,2,48,0,CA,MarTech,large,false,
+EXT-2346,Mann PLC,ann18@lee.net,001-409-283-7801,starter,90.05,,2022-07-05,,2026-06-04,23,68.6,0,0,7,0,US,MarTech,small,false,
+EXT-2347,Buchanan-Sanchez,imiller@flores.com,662-460-8564x11182,starter,172.50,,2024-08-18,,2026-06-09,11,100.0,0,1,40,0,FR,LegalTech,small,false,
+EXT-2348,Scott Inc,kristopherrussell@brown.com,6048615265,starter,195.66,,2023-05-25,,2026-04-05,8,17.2,1,7,17,2,CA,SaaS,large,true,2023-08-16
+EXT-2349,Williams and Sons,trevorgoodwin@avery-adams.com,386.517.0630x489,enterprise,3925.98,,2022-04-12,,2026-06-09,20,98.7,0,0,62,0,IN,MarTech,large,false,
+EXT-2350,"Pearson, Martinez and Carroll",omiller@harris.com,686.487.0079,starter,151.91,,2022-10-04,,2026-06-09,16,68.7,1,1,58,0,IN,E-commerce,small,false,
+EXT-2351,Brown Group,carla65@lewis.com,001-789-714-1612x846,starter,197.18,,2024-12-28,,2026-05-30,22,71.1,1,1,53,0,DE,FinTech,mid,true,2026-02-27
+EXT-2352,"Green, Mullins and Chavez",eileenmorris@stevens.com,9208970026,free,0.00,,2024-07-18,,2026-04-03,4,24.8,4,6,-6,0,CA,HealthTech,large,true,2024-12-14
+EXT-2353,"Miller, Mcdowell and Curtis",staffordlisa@chambers-gomez.biz,+1-256-620-1753x703,starter,130.29,,2024-08-30,,2026-06-10,9,53.0,0,0,51,0,US,HRTech,small,false,
+EXT-2354,"Morse, Howard and Davis",lindsey33@coffey-johnson.info,001-593-403-6149x872,starter,71.45,,2024-06-17,,2026-05-29,18,55.1,1,1,47,0,SG,HRTech,mid,false,
+EXT-2355,Chapman Ltd,andersonsarah@ibarra.com,208.794.8706,starter,132.59,,2023-11-07,,2026-05-11,6,47.9,3,10,-21,3,CA,HRTech,small,true,2024-05-10
+EXT-2356,Richard-Russell,fraziersteven@holmes-williams.com,7463875063,free,0.00,,2022-12-20,,2026-05-22,3,47.8,5,10,20,3,CA,FinTech,mid,true,2025-03-13
+EXT-2357,"Aguirre, Mooney and Perez",prosario@martin.com,+1-710-276-0954x3173,starter,130.82,,2023-08-30,,2026-05-21,10,45.7,3,7,-33,1,GB,MarTech,small,true,2025-12-28
+EXT-2358,Stone-Young,parsonschristine@garrett.com,200-665-1207,starter,158.43,,2025-01-21,,2026-06-08,19,84.9,1,2,73,0,NL,MarTech,small,false,
+EXT-2359,"Sims, Jones and Byrd",phillipspatrick@williamson.com,+1-990-776-7699x150,starter,156.28,,2023-11-15,,2026-06-03,18,37.6,1,1,79,0,CA,MarTech,mid,false,
+EXT-2360,"Lee, Garcia and Larson",watkinsmary@martinez.info,001-797-623-2002x496,growth,956.55,12,2024-03-11,2025-03-01,2026-06-07,28,55.6,0,1,35,0,GB,EdTech,mid,false,
+EXT-2361,"Mcclure, Rowe and Hernandez",carrie45@holmes.com,5383806533,free,0.00,,2022-05-02,,2026-04-21,5,28.0,1,5,-8,1,US,SaaS,large,true,2024-02-19
+EXT-2362,Lopez-Alvarez,vgreene@knight.com,(917)507-3033,starter,135.81,,2024-12-10,,2025-10-15,3,8.9,3,5,21,2,BR,SaaS,mid,true,2025-10-18
+EXT-2363,Castillo LLC,lharris@cox.com,2812247395,starter,99.70,,2024-05-22,,2026-06-06,22,63.4,1,3,74,0,IN,PropTech,small,false,
+EXT-2364,Gonzalez and Sons,nicolehiggins@abbott-sanchez.com,5246102615,free,0.00,,2025-01-23,,2026-03-11,3,23.8,5,7,7,1,FR,LegalTech,mid,true,2025-05-31
+EXT-2365,Allen-Pacheco,shelleyrowland@keith.com,(533)286-5596,enterprise,3317.02,24,2024-04-19,2026-04-01,2026-06-09,25,65.9,1,2,31,0,DE,EdTech,large,false,
+EXT-2366,"Matthews, Dickerson and Phillips",markbrown@salas-york.org,931.479.1286x8578,enterprise,3794.44,24,2022-08-23,2024-08-01,2026-03-02,3,33.5,3,8,-21,3,BR,E-commerce,mid,true,2024-11-05
+EXT-2367,Marquez-Fox,fbaldwin@adams-morales.org,+1-403-733-7363x4669,free,0.00,,2023-08-23,,2026-05-30,29,81.6,0,1,82,2,AU,InsurTech,large,false,
+EXT-2368,Pierce-Taylor,phillipsapril@silva.net,+1-256-477-6657x546,growth,543.51,12,2024-09-23,2025-09-01,2026-06-09,16,57.6,0,0,66,0,AU,PropTech,large,false,
+EXT-2369,Hall-Brewer,rachel48@payne.com,711-650-8353,growth,939.46,24,2024-04-19,2026-04-01,2026-06-08,20,60.7,0,0,36,0,CA,PropTech,large,false,
+EXT-2370,Mcgee-Mack,james92@singh.com,956-569-0782x6333,starter,152.76,,2023-04-30,,2026-06-07,20,63.5,0,0,84,0,IN,FinTech,large,false,
+EXT-2371,"Matthews, Tran and Harrison",fpeterson@singleton-patterson.biz,677.280.5292,growth,859.95,12,2024-06-10,2025-06-01,2026-05-31,17,78.6,1,1,65,0,US,HRTech,large,false,
+EXT-2372,Cochran-Flowers,jeremiah66@medina.com,(525)899-9966,starter,52.47,,2022-04-03,,2026-05-31,14,92.1,0,0,69,0,SG,PropTech,mid,false,
+EXT-2373,Ferguson and Sons,krodriguez@fowler-torres.com,382-809-7023,enterprise,1918.71,,2024-10-17,,2026-06-09,21,68.3,0,0,56,1,FR,E-commerce,small,false,
+EXT-2374,Harris-Carter,gibsonmiguel@jackson.biz,(412)586-7163,starter,106.88,,2022-05-16,,2026-05-21,17,69.6,0,2,56,0,AU,MarTech,mid,false,
+EXT-2375,Reynolds-Mckinney,kmoore@matthews-shaw.info,930-927-1693x859,starter,137.24,,2023-05-12,,2026-06-06,20,78.9,0,0,47,0,IN,PropTech,large,false,
+EXT-2376,Johnston-Mclaughlin,debbie75@kirby.com,(632)696-7629x16032,starter,163.46,,2024-08-12,,2026-05-01,6,6.4,0,8,-32,2,AU,LegalTech,mid,true,2025-05-24
+EXT-2377,"Hendricks, Wolfe and Bowen",reginajenkins@martinez.net,001-756-872-4380x701,starter,127.37,,2024-12-19,,2026-04-13,4,20.4,5,5,41,2,CA,InsurTech,large,true,2025-08-12
+EXT-2378,Sanders Inc,danny25@goodman.net,+1-837-427-4220x9124,growth,412.36,,2023-04-27,,2026-03-02,5,38.4,0,8,,4,AU,HealthTech,small,true,2025-04-22
+EXT-2379,Powers Inc,eric52@klein.net,270.281.6470,starter,194.15,,2023-10-21,,2026-06-09,27,63.9,0,2,43,0,AU,FinTech,small,false,
+EXT-2380,Wang-Mcfarland,regina31@fisher.com,313.712.2068,starter,87.56,,2024-08-22,,2026-06-11,25,67.9,0,0,77,0,FR,SaaS,small,false,
+EXT-2381,Hart-Lopez,sarahfoster@martinez-lewis.com,220-365-0637x31495,growth,508.98,,2022-12-30,,2026-06-11,21,62.8,0,2,43,0,NL,E-commerce,mid,false,
+EXT-2382,Jenkins PLC,gbird@herrera.com,219-956-2525x715,growth,314.80,12,2022-10-09,2023-10-01,2026-06-09,20,66.8,0,1,59,0,IN,SaaS,small,false,
+EXT-2383,Dixon-Harmon,hallchristina@parker.biz,001-539-910-2574x326,enterprise,3097.78,,2022-09-13,,2026-06-10,21,97.9,0,0,,0,US,PropTech,mid,false,
+EXT-2384,"Wiley, Taylor and Stewart",meyertiffany@hess.com,333-980-3396x85270,starter,158.39,,2024-03-24,,2026-05-29,20,61.6,0,0,50,1,IN,HRTech,small,false,
+EXT-2385,Mckay Inc,shawnamartinez@watkins.com,916.574.2336x29344,growth,660.88,12,2023-03-15,2024-03-01,2026-06-04,24,58.2,1,2,80,0,DE,FinTech,small,false,
+EXT-2386,Huffman-Olson,raymond27@henderson-lynch.biz,001-827-906-6149x828,growth,524.63,,2023-07-08,,2026-06-07,21,75.3,0,1,79,0,NL,PropTech,mid,false,
+EXT-2387,Chavez-Brooks,ijones@harrison.com,357.866.6567x49160,growth,921.48,12,2022-05-19,2023-05-01,2026-06-09,16,56.6,1,1,74,0,AU,HRTech,large,false,
+EXT-2388,"Martin, Hines and Krueger",william75@brown.com,470.650.2497,starter,53.79,,2022-04-14,,2026-05-18,24,63.8,0,2,64,0,AU,FinTech,small,true,2024-09-09
+EXT-2389,Guzman Ltd,alexanderwise@dawson.com,336.726.4488x69461,starter,49.59,,2024-03-13,,2026-05-04,3,38.0,1,5,10,0,US,SaaS,mid,true,2025-06-26
+EXT-2390,Adams and Sons,ahale@velasquez.com,468-464-6225,starter,167.35,,2022-08-28,,2026-03-19,7,19.9,5,6,-11,3,CA,HealthTech,small,true,2025-11-07
+EXT-2391,Tucker PLC,hayeslisa@harris.com,001-334-767-9121x416,free,0.00,,2023-07-08,,2026-03-11,2,21.4,2,7,-24,4,IN,SaaS,mid,true,2024-03-22
+EXT-2392,Richards Group,gchambers@brown.org,9139806984,starter,80.87,,2023-04-01,,2026-06-06,27,79.4,0,2,43,0,SG,LegalTech,small,false,
+EXT-2393,Munoz-Rogers,yvonne35@ross.com,607-562-0918,growth,914.82,,2023-11-09,,2026-06-09,27,55.6,1,3,49,0,NL,MarTech,large,false,
+EXT-2394,Hayes-Parks,qrobertson@smith.com,3507573976,free,0.00,,2024-04-27,,2026-02-27,2,8.0,5,5,11,1,GB,HealthTech,large,true,2025-06-29
+EXT-2395,Crosby-David,shatfield@navarro.org,628.998.0271,free,0.00,,2022-02-15,,2026-06-05,17,72.9,1,2,52,0,SG,InsurTech,small,false,
+EXT-2396,Mosley Inc,pbates@lewis.com,960-325-6434,growth,825.39,12,2022-09-09,2023-09-01,2026-06-08,16,92.1,1,2,72,0,FR,FinTech,mid,false,
+EXT-2397,"Taylor, Nichols and Swanson",popemarvin@huynh.com,+1-356-768-6334x1411,growth,733.45,24,2022-10-04,2024-10-01,2026-05-28,16,68.7,0,1,53,1,DE,PropTech,small,false,
+EXT-2398,"Vargas, Lopez and Mcmahon",david56@mclaughlin.com,(965)752-8993x1608,growth,495.88,,2022-01-18,,2026-06-09,27,63.0,1,1,84,0,GB,HRTech,large,false,
+EXT-2399,Cabrera LLC,vincentbryant@campbell.com,+1-254-781-4973x746,starter,93.27,,2022-01-07,,2026-06-10,30,84.4,0,0,54,0,FR,FinTech,large,false,
+EXT-2400,Carey and Sons,isabellawilliams@gates.biz,620-686-5675x6618,starter,185.94,,2024-06-07,,2026-06-10,23,70.6,0,1,99,0,FR,InsurTech,mid,false,
+EXT-2401,"Leblanc, Haynes and Kelley",andersonkaren@glenn.com,729.327.7423x330,starter,66.74,,2024-10-03,,2026-06-02,2,29.1,8,10,,2,FR,HRTech,small,false,
+EXT-2402,"Floyd, Garrison and Bennett",kshelton@davis.com,2183596263,growth,877.89,12,2024-12-09,2025-12-01,2026-06-09,28,86.9,2,2,69,0,AU,E-commerce,mid,false,
+EXT-2403,Sanders LLC,denisebennett@esparza.info,+1-264-975-0111x1783,free,0.00,,2024-11-26,,2026-06-07,20,73.9,0,1,26,0,US,EdTech,mid,false,
+EXT-2404,Benson-Davis,patrickcooke@hamilton.com,001-382-560-6888x718,starter,103.09,,2025-02-21,,2026-05-15,7,50.5,3,9,-5,1,NL,HealthTech,large,false,
+EXT-2405,"Merritt, White and George",adamwest@martinez-anderson.com,+1-821-284-0118x4582,free,0.00,,2022-01-29,,2026-01-13,5,10.8,4,7,29,4,NL,InsurTech,mid,true,2024-08-09
+EXT-2406,Turner PLC,donna72@henry.com,+1-488-531-0303x243,growth,317.10,,2023-12-06,,2026-06-08,19,85.9,0,0,70,0,GB,EdTech,large,false,
+EXT-2407,"Howard, Anderson and Dean",piercejorge@mckee.com,+1-462-783-1435x9892,starter,127.32,,2023-12-24,,2026-06-12,20,51.1,0,1,81,0,SG,EdTech,small,false,
+EXT-2408,Gray-Maynard,chrismartinez@sutton.com,315-454-2340x16361,starter,150.56,,2024-11-23,,2026-06-12,17,87.1,0,2,70,0,CA,FinTech,mid,false,
+EXT-2409,"Chandler, Parker and Nicholson",wdavis@armstrong.com,8259625889,growth,623.85,24,2024-11-09,2026-11-01,2026-06-07,21,66.9,1,1,33,0,FR,HRTech,small,false,
+EXT-2410,"Anderson, Smith and Palmer",dianethomas@moss.com,001-839-567-2757x844,starter,160.77,,2022-01-12,,2026-06-09,22,61.8,0,1,5,1,BR,LegalTech,small,false,
+EXT-2411,Reid-Miller,richard51@miller.com,001-401-948-7068,enterprise,3590.05,24,2024-06-05,2026-06-01,2026-06-08,19,56.6,0,0,,0,AU,E-commerce,small,true,2025-02-06
+EXT-2412,Robertson-Cuevas,sullivanchristina@smith.com,489.309.7283,growth,843.56,,2024-02-29,,2026-05-22,18,71.7,0,1,75,0,GB,HealthTech,mid,false,
+EXT-2413,Franco-Palmer,hendersonnicholas@booker-morgan.com,+1-814-547-4430,growth,944.07,24,2023-09-16,2025-09-01,2026-06-04,14,52.8,0,0,,0,IN,SaaS,small,false,
+EXT-2414,Hickman-Haley,wallspatricia@brown-smith.info,345-410-5265x01673,starter,51.01,,2024-06-23,,2025-11-24,6,34.9,3,7,-2,0,DE,MarTech,large,false,
+EXT-2415,Martinez-Freeman,kaylawright@foster-evans.biz,(884)217-7225,growth,627.86,24,2024-05-13,2026-05-01,2026-06-04,17,70.3,1,1,43,1,BR,SaaS,mid,false,
+EXT-2416,Stephenson-Fletcher,lopezbilly@fisher-rivera.com,(437)741-6787,growth,578.74,,2022-03-01,,2026-06-09,22,43.4,1,1,68,0,BR,HRTech,large,false,
+EXT-2417,Shaw-Mclean,ganderson@martinez.net,6306569067,growth,833.12,12,2022-01-27,2023-01-01,2026-06-03,19,78.3,0,0,81,1,SG,EdTech,large,false,
+EXT-2418,Miller-Patterson,jessicalopez@wang-lin.com,+1-863-271-8923x9231,growth,659.24,,2024-09-30,,2026-06-04,28,62.3,1,2,93,1,NL,HealthTech,small,false,
+EXT-2419,Mooney-Hickman,msmith@lin.biz,743.635.6708x60414,starter,79.49,,2022-11-26,,2026-05-13,8,36.1,3,8,,1,GB,HealthTech,mid,true,2024-11-10
+EXT-2420,Dawson-Wright,whiteaaron@garner.org,362-247-5541,enterprise,3969.31,,2023-04-04,,2026-06-07,21,51.1,0,1,51,0,CA,E-commerce,small,false,
+EXT-2421,"Arnold, Atkins and Rivera",julia98@watson.biz,912-391-0933,growth,980.37,24,2023-03-22,2025-03-01,2026-06-08,17,77.6,0,0,74,0,GB,HealthTech,small,false,
+EXT-2422,Mcmahon PLC,kevin73@le.net,001-248-455-7161x768,growth,827.31,24,2022-07-01,2024-07-01,2026-06-07,16,79.8,0,0,34,0,SG,PropTech,large,false,
+EXT-2423,"Hill, Ponce and Roberts",bauerheather@olsen.net,627-586-8669,starter,60.53,,2023-12-08,,2026-05-29,23,70.5,0,1,53,1,GB,EdTech,small,false,
+EXT-2424,Smith PLC,brittanysmith@gibson.com,544.681.2308,enterprise,2115.62,,2023-09-01,,2026-06-12,23,81.7,0,1,26,0,BR,EdTech,mid,false,
+EXT-2425,Bowman LLC,josephgibbs@whitney.com,8596551842,growth,972.61,,2022-12-15,,2026-06-10,29,69.2,0,1,61,0,DE,InsurTech,mid,false,
+EXT-2426,Galloway-Garrett,hollowayjeffrey@thompson-bonilla.net,+1-891-464-9837x3543,starter,143.38,,2022-02-04,,2026-06-09,24,100.0,1,2,63,0,GB,SaaS,small,false,
+EXT-2427,Hall-Barber,eddie71@white-lopez.com,897.524.0422,free,0.00,,2022-01-13,,2026-06-08,21,64.4,0,0,60,0,IN,SaaS,mid,false,
+EXT-2428,Thomas Group,spencerbrewer@garcia-rose.com,+1-416-260-1002x314,growth,840.34,,2025-02-28,,2026-06-12,11,66.0,1,1,18,0,GB,EdTech,small,false,
+EXT-2429,Rosario Inc,melissa13@castillo.info,(345)272-3084,starter,190.57,,2023-05-26,,2026-06-06,21,54.2,0,0,65,0,FR,MarTech,large,false,
+EXT-2430,Garcia LLC,huntmary@smith.com,966.425.4361,enterprise,4101.12,,2024-05-14,,2026-06-10,24,100.0,0,0,59,0,SG,PropTech,small,false,
+EXT-2431,Walker LLC,charles51@mclean-gillespie.com,+1-622-768-5926x249,starter,157.62,,2022-07-30,,2026-06-08,23,49.7,0,0,56,0,GB,PropTech,small,false,
+EXT-2432,Nelson Group,sarah10@strickland.com,(467)371-1964,growth,483.78,24,2023-04-17,2025-04-01,2026-06-02,20,54.8,1,2,40,0,NL,LegalTech,small,false,
+EXT-2433,Cooley-White,fgomez@olson-dudley.org,+1-552-836-6878x8788,free,0.00,,2025-01-21,,2026-05-27,27,59.4,0,2,85,0,BR,HealthTech,mid,false,
+EXT-2434,Carpenter Group,jacquelineyoung@harris.com,+1-972-410-5524,starter,187.62,,2022-06-12,,2026-04-21,2,4.5,2,4,-31,2,FR,InsurTech,mid,true,2024-11-11
+EXT-2435,"Bonilla, Durham and Sanchez",briantaylor@padilla.biz,(301)591-7920x252,starter,86.61,,2023-04-13,,2026-06-11,18,80.7,0,0,81,0,SG,PropTech,large,false,
+EXT-2436,Smith Group,kathyharrison@adkins.com,465.270.4120x0928,growth,861.44,,2022-12-11,,2026-06-03,16,93.7,0,0,3,0,CA,HRTech,large,false,
+EXT-2437,Wall-Frazier,qspencer@shaw.com,318-962-3690x362,starter,116.90,,2024-10-30,,2026-05-24,18,49.4,0,1,56,0,BR,HealthTech,large,false,
+EXT-2438,Edwards-May,zmartin@lucas-lee.com,315-395-0342,free,0.00,,2024-01-24,,2026-04-16,5,70.2,1,8,,1,NL,SaaS,small,false,
+EXT-2439,Harper LLC,andrealittle@allen.org,001-209-770-0514,growth,872.83,,2022-11-28,,2026-05-02,3,10.3,0,6,-13,1,IN,EdTech,small,true,2024-10-21
+EXT-2440,Benjamin-Porter,karen52@leonard.net,682-409-6790,free,0.00,,2023-03-23,,2026-03-24,5,42.7,2,2,22,4,IN,E-commerce,large,true,2025-05-15
+EXT-2441,Fleming Inc,cisnerosjesse@aguirre.com,001-228-889-8572x545,enterprise,2081.60,,2022-07-02,,2026-06-09,23,73.4,0,1,,0,BR,InsurTech,mid,true,2022-10-02
+EXT-2442,Clark PLC,rubioashley@davis-smith.com,+1-317-617-5242,growth,326.44,,2024-01-30,,2026-06-02,19,51.7,0,0,92,0,GB,MarTech,large,false,
+EXT-2443,"Cox, Davis and White",escott@hines-ramos.com,497-905-4669,starter,55.11,,2023-08-06,,2026-05-27,7,0.0,2,8,-16,2,SG,HRTech,large,true,2026-05-04
+EXT-2444,Hunt-Weber,nathaniel68@baker-hutchinson.com,+1-303-580-2146x296,enterprise,2302.69,,2022-02-08,,2026-06-05,13,90.7,0,0,70,0,AU,MarTech,mid,false,
+EXT-2445,Sawyer-Caldwell,steven87@miller.com,(663)965-1559x7371,starter,63.11,,2022-12-23,,2026-04-02,3,48.5,2,7,-29,2,IN,HRTech,large,true,2024-02-24
+EXT-2446,Gardner Group,danielleflores@huerta.com,(467)330-3064x421,starter,92.76,,2022-05-08,,2026-06-11,14,77.2,0,0,72,1,IN,E-commerce,mid,false,
+EXT-2447,Sullivan-Evans,hsavage@caldwell.com,9169542356,enterprise,2133.75,12,2022-06-11,2023-06-01,2026-06-09,18,35.5,0,1,83,0,SG,SaaS,mid,false,
+EXT-2448,"Barker, Martin and Horton",rita96@hoffman.com,499-925-5027,enterprise,4638.07,,2024-12-21,,2026-03-04,4,43.0,2,5,5,1,FR,PropTech,small,true,2025-06-04
+EXT-2449,Wilson-Cordova,ubaker@mcneil.info,+1-591-503-3682x9635,starter,51.07,,2024-10-29,,2026-06-08,23,47.3,0,1,59,1,AU,EdTech,large,false,
+EXT-2450,"Ray, Smith and Cervantes",turnerkurt@lyons.info,(465)858-6851x27652,starter,160.84,,2022-10-16,,2026-06-08,26,82.8,0,1,46,1,FR,SaaS,large,false,
+EXT-2451,Mitchell-Keller,swalters@pace.com,310-996-1798,enterprise,3811.46,,2024-05-18,,2026-06-04,17,75.9,0,3,26,0,US,PropTech,small,false,
+EXT-2452,"Perkins, Johnson and Roberts",xlewis@arnold-wilson.info,657-666-0538,free,0.00,,2022-01-01,,2026-06-12,26,80.5,0,0,39,1,DE,FinTech,mid,false,
+EXT-2453,"Baker, Roberson and Pope",anunez@johnson-johnson.com,895.452.9638x63960,enterprise,1872.99,,2023-07-22,,2026-06-06,13,60.5,0,0,47,0,DE,E-commerce,mid,false,
+EXT-2454,"Myers, Chandler and Powell",zachary63@mckinney.net,396-248-2531,starter,100.02,,2022-12-02,,2026-05-11,2,26.1,1,5,17,0,AU,PropTech,large,true,2024-06-01
+EXT-2455,Smith-Carrillo,anthonyzimmerman@armstrong.com,652.333.4383x640,free,0.00,,2024-03-11,,2026-03-21,5,30.8,3,5,,1,CA,MarTech,small,true,2024-12-17
+EXT-2456,Burton Ltd,rodriguezsara@rodriguez.com,(211)875-3617,growth,696.90,24,2022-02-14,2024-02-01,2026-06-08,18,71.1,1,1,58,0,BR,HealthTech,small,false,
+EXT-2457,Tucker Ltd,clarkrobert@schultz-hayes.com,(740)929-9015,free,0.00,,2023-02-19,,2026-02-19,0,10.4,3,3,30,0,DE,MarTech,large,true,2024-04-10
+EXT-2458,"Greene, Smith and Boyd",sara39@herrera.net,001-923-551-3052x312,starter,166.83,,2024-05-31,,2026-06-01,25,56.8,0,0,54,0,NL,E-commerce,large,false,
+EXT-2459,Bailey PLC,stuart76@potts.com,+1-646-719-9423x7676,starter,112.65,,2022-02-13,,2026-05-28,18,68.2,0,1,49,0,CA,HealthTech,mid,false,
+EXT-2460,"Rodriguez, Reyes and Gonzalez",nathaniel17@preston.com,001-464-798-5601,growth,967.81,12,2024-07-02,2025-07-01,2026-05-25,27,61.1,0,0,85,0,GB,E-commerce,large,false,
+EXT-2461,Gibbs-Howard,lewisnathan@chan.com,505-337-9538x16493,growth,683.38,24,2023-02-16,2025-02-01,2026-06-05,15,71.3,1,1,67,0,GB,MarTech,mid,false,
+EXT-2462,"Ramirez, Franklin and Ware",berrydebbie@avila.com,4777046117,starter,104.64,,2022-05-23,,2026-06-12,19,49.3,0,1,48,0,SG,E-commerce,small,false,
+EXT-2463,"Reyes, Ray and Mitchell",buckjustin@johnson-ferguson.net,7507171644,starter,172.49,,2024-09-04,,2026-05-08,6,0.0,3,5,-15,2,NL,FinTech,large,false,
+EXT-2464,Miller-Hampton,zsalazar@horton-gibson.com,(491)303-0021x563,starter,189.03,,2024-02-25,,2026-03-30,5,39.7,2,6,-7,2,IN,HRTech,mid,true,2025-05-24
+EXT-2465,Ramsey LLC,villamiranda@ware-williams.com,714-459-6422x9712,starter,74.73,,2023-05-25,,2026-04-23,6,11.6,1,3,,0,FR,HealthTech,large,true,2024-09-05
+EXT-2466,"Barron, Church and Gutierrez",hbarnett@allen.com,273-514-4158x33117,enterprise,2973.50,24,2023-12-14,2025-12-01,2026-05-08,25,54.2,0,0,52,0,AU,SaaS,large,false,
+EXT-2467,Santiago Group,glopez@clark-garza.net,554.872.8123x56798,growth,980.26,24,2024-03-28,2026-03-01,2026-06-08,13,67.6,0,2,27,0,FR,LegalTech,large,false,
+EXT-2468,Jones Group,ginalynn@wong.com,707.624.0787,growth,436.89,,2022-10-17,,2026-05-27,16,71.4,0,0,65,0,GB,PropTech,small,false,
+EXT-2469,Mcintosh Inc,ryan26@jordan.com,606-963-4362,enterprise,2704.55,,2022-03-01,,2026-06-11,17,70.3,0,0,58,1,NL,HRTech,mid,false,
+EXT-2470,"Hamilton, Maldonado and Lucas",robinsonbrian@johnston.com,+1-514-639-6661,free,0.00,,2024-06-10,,2026-04-19,5,22.7,3,7,34,5,AU,LegalTech,small,false,
+EXT-2471,Harris-Floyd,dana94@smith.org,843.725.1225x7207,growth,946.31,12,2022-07-01,2023-07-01,2026-05-28,25,79.2,0,2,73,0,BR,SaaS,small,false,
+EXT-2472,Thompson LLC,jacksonkathleen@wheeler.org,5734710094,enterprise,2636.38,24,2022-11-05,2024-11-01,2026-06-04,19,56.9,0,1,73,0,FR,MarTech,mid,false,
+EXT-2473,Rowe Inc,linda57@navarro-fritz.com,+1-274-457-0545x8971,growth,725.11,,2023-05-05,,2026-06-04,23,82.7,0,0,45,0,IN,FinTech,large,false,
+EXT-2474,Chase-Hopkins,michaeljohnson@figueroa.com,761.748.7824,growth,724.08,24,2023-10-25,2025-10-01,2026-04-05,5,16.9,9,11,,2,BR,HealthTech,mid,true,2025-10-10
+EXT-2475,Lawrence-Landry,kyle09@miles.info,001-654-410-7272,enterprise,4222.73,12,2023-05-07,2024-05-01,2026-03-29,9,1.9,1,6,-9,1,FR,HealthTech,large,false,
+EXT-2476,Tucker-Brown,alexis03@petersen-martinez.info,306-650-0425x4882,growth,878.52,,2022-02-04,,2026-06-10,18,79.7,1,1,80,0,CA,PropTech,large,true,2024-03-24
+EXT-2477,Ferrell and Sons,frichards@robinson-kennedy.com,466.861.4494,free,0.00,,2024-10-08,,2026-03-20,3,42.3,3,7,77,5,SG,SaaS,large,false,
+EXT-2478,"Liu, Brock and Taylor",johnbutler@turner.com,001-978-726-6128,growth,563.88,,2022-07-15,,2026-06-06,24,74.9,0,2,94,0,BR,LegalTech,mid,false,
+EXT-2479,"Donovan, Marquez and Mcdonald",aowens@johnson-hansen.biz,629-243-9852,growth,949.86,,2022-02-01,,2026-06-02,21,45.3,1,1,54,0,IN,FinTech,large,false,
+EXT-2480,Martinez-Santiago,haguirre@combs-miller.com,+1-215-591-4975x0198,enterprise,4541.47,,2024-03-04,,2026-04-22,4,48.6,1,4,36,2,US,SaaS,large,true,2024-07-15
+EXT-2481,"Thomas, Yang and Simpson",pattybowman@turner.com,393.911.0291x8133,starter,83.36,,2022-07-22,,2026-06-03,15,85.4,0,0,40,1,IN,E-commerce,mid,false,
+EXT-2482,Wall Group,hbrown@sullivan-mcgrath.com,+1-449-479-1620,growth,782.42,24,2023-11-08,2025-11-01,2026-06-02,14,38.4,0,1,36,0,IN,PropTech,mid,false,
+EXT-2483,"Sandoval, Jackson and Harmon",thomasroberts@garcia.com,(261)676-6204x7196,starter,122.95,,2023-09-09,,2026-04-11,3,48.1,5,7,13,2,AU,InsurTech,small,false,
+EXT-2484,Brewer Ltd,wwilliams@mcdonald.info,402-458-8358x681,free,0.00,,2024-05-07,,2026-02-01,1,37.9,4,8,-28,2,IN,LegalTech,large,true,2024-10-11
+EXT-2485,Rios-Hart,yespinoza@ramirez.com,(717)867-9298x8425,growth,951.19,24,2022-05-18,2024-05-01,2026-06-08,16,71.9,1,1,52,0,IN,HRTech,large,false,
+EXT-2486,Williams Ltd,jesseortega@villa-alvarez.com,001-731-226-6109x410,starter,162.51,,2024-07-17,,2026-05-23,4,6.6,6,8,24,4,US,PropTech,mid,true,2026-05-24
+EXT-2487,Morris Ltd,ogray@hawkins.com,332.568.3190,starter,116.66,,2023-10-04,,2026-05-30,17,41.1,2,2,49,0,DE,MarTech,large,false,
+EXT-2488,Patrick Inc,kim98@peterson.net,833.897.8559x8217,starter,176.06,,2023-10-31,,2026-06-07,15,55.3,0,0,-2,0,FR,E-commerce,small,false,
+EXT-2489,Carroll and Sons,craig73@guzman.com,544.665.1241,growth,660.73,12,2024-06-02,2025-06-01,2026-06-11,25,71.5,1,2,53,0,GB,InsurTech,large,false,
+EXT-2490,Montgomery-Gardner,aguilarsharon@delgado-johnson.biz,235-702-3850x371,enterprise,4876.31,,2022-12-09,,2026-06-09,17,75.9,2,3,78,0,AU,SaaS,small,false,
+EXT-2491,Dodson PLC,claytimothy@nelson.com,2782356743,starter,87.44,,2024-01-29,,2026-06-11,27,47.0,0,0,97,0,BR,SaaS,mid,false,
+EXT-2492,Ayala and Sons,vfleming@tran.biz,001-762-866-8217x195,starter,61.43,,2024-09-02,,2026-05-17,18,60.4,0,2,100,0,FR,HRTech,large,false,
+EXT-2493,Allen Inc,perezjulie@bradley.com,7105272405,free,0.00,,2024-03-16,,2026-06-08,16,59.1,0,4,11,0,IN,PropTech,mid,false,
+EXT-2494,Anderson-Sanders,douglascharles@harris.com,245.784.3845x881,starter,102.14,,2022-01-06,,2026-03-28,6,65.4,1,6,10,1,CA,PropTech,large,false,
+EXT-2495,Thornton-Howell,christian28@torres.com,952-203-7710,starter,152.60,,2024-01-22,,2026-06-08,21,92.8,0,0,,0,GB,E-commerce,small,false,
+EXT-2496,Ramirez-Cruz,brownmelissa@simpson-roy.biz,703.236.2680x408,enterprise,4047.17,24,2023-05-01,2025-05-01,2026-06-02,27,68.1,0,0,,0,AU,LegalTech,large,false,
+EXT-2497,"Webster, Rogers and Clayton",lisa93@peterson.biz,(801)986-4876x99842,growth,453.46,12,2024-07-19,2025-07-01,2026-05-22,21,58.6,0,2,40,0,DE,MarTech,small,false,
+EXT-2498,"Riddle, Allen and Velez",lauren41@wise.com,001-260-394-5449,starter,73.38,,2022-01-05,,2026-06-12,23,66.5,0,0,99,0,FR,LegalTech,large,false,
+EXT-2499,Carroll-Morris,melanie77@gonzales.com,(378)936-0914x985,free,0.00,,2025-02-01,,2026-04-15,3,52.5,2,7,28,0,FR,PropTech,mid,true,2025-05-22
+EXT-2500,Scott LLC,misty23@thompson.com,502-287-9508,starter,120.13,,2024-07-13,,2026-06-07,15,69.1,1,2,97,0,US,InsurTech,mid,false,
+EXT-2501,"Braun, Hester and Smith",amber09@bailey.net,618.413.3595x616,starter,96.97,,2022-06-24,,2026-06-10,22,62.2,0,0,64,0,BR,E-commerce,small,false,
+EXT-2502,Nguyen LLC,theresa57@howell-martin.com,829-201-9358x8953,enterprise,3019.34,,2022-05-30,,2026-06-10,15,86.9,0,0,60,0,CA,HealthTech,mid,false,
+EXT-2503,"Barber, James and Cuevas",friedmansusan@cunningham.net,001-568-618-0978x875,starter,86.16,,2024-01-16,,2026-01-27,12,26.9,0,1,,2,FR,MarTech,large,true,2025-11-21
+EXT-2504,Murphy LLC,stephengoodman@steele.biz,(515)488-1579x376,free,0.00,,2022-11-10,,2026-03-18,4,32.5,0,3,10,1,SG,FinTech,small,true,2023-02-28
+EXT-2505,"Sanchez, Blankenship and Craig",catherineflynn@edwards-miller.biz,329.473.2702x16487,enterprise,3110.94,24,2023-12-21,2025-12-01,2026-06-05,11,65.8,0,0,49,0,DE,HRTech,large,false,
+EXT-2506,Bass Inc,veronicaanderson@sellers.biz,001-383-741-5599x910,starter,74.24,,2024-12-03,,2026-03-13,4,13.7,1,3,-20,2,DE,EdTech,large,true,2025-06-05
+EXT-2507,Lozano-Mccoy,eroberts@taylor.net,920-499-5765,growth,559.70,12,2024-03-23,2025-03-01,2026-06-07,23,51.7,0,0,52,1,GB,SaaS,small,false,
+EXT-2508,"Sharp, Ramirez and Mejia",kennethpeterson@holmes.biz,756-352-2036x8499,starter,176.39,,2023-01-18,,2026-04-01,8,24.9,4,4,12,0,CA,LegalTech,small,true,2024-12-21
+EXT-2509,Mitchell-Wilson,tommy32@crosby-green.org,001-513-242-1388x209,free,0.00,,2022-01-14,,2026-04-22,7,8.6,2,3,-6,2,US,E-commerce,small,false,
+EXT-2510,Wall-Johnson,juangould@dennis-meyer.info,511-376-7412x4151,starter,108.08,,2024-06-06,,2026-05-24,6,21.8,0,5,18,0,DE,LegalTech,mid,true,2026-06-08
+EXT-2511,Moore-Rogers,gmccoy@waters.com,(618)953-8003x29633,growth,582.33,,2024-01-16,,2026-06-06,21,66.9,0,0,35,1,US,HRTech,small,false,
+EXT-2512,Washington and Sons,mcampbell@liu.com,8616789320,starter,167.48,,2024-01-11,,2026-06-12,13,74.2,0,1,76,0,NL,HRTech,small,false,
+EXT-2513,"James, Silva and Little",lmoreno@pittman-golden.info,769.558.7413x1467,growth,600.78,,2024-03-27,,2026-06-07,19,75.6,0,0,52,0,CA,HealthTech,large,false,
+EXT-2514,"Coleman, Thompson and Huber",baileyraymond@ayala.info,+1-663-704-4836x085,enterprise,2628.84,,2022-08-13,,2026-05-29,22,74.2,0,0,32,0,BR,InsurTech,small,false,
+EXT-2515,Myers-Ramos,dgreen@washington-robinson.com,276-239-2831x9952,starter,112.41,,2022-10-01,,2026-06-12,23,62.1,0,1,9,0,CA,LegalTech,large,false,
+EXT-2516,Davis-Bush,katie81@williams.com,+1-563-242-5563,growth,574.19,12,2024-07-10,2025-07-01,2026-06-08,19,81.1,0,0,60,0,IN,SaaS,small,false,
+EXT-2517,Bruce PLC,masonlacey@moore.com,330.341.6624,enterprise,2554.23,24,2023-08-28,2025-08-01,2026-06-10,27,78.5,0,0,98,0,BR,FinTech,small,false,
+EXT-2518,Wagner Ltd,vsmith@jacobs.biz,994.556.8044,growth,712.14,12,2022-08-25,2023-08-01,2026-06-10,21,67.7,1,1,36,0,AU,E-commerce,mid,false,
+EXT-2519,Baker Ltd,bbennett@walker.net,374-988-3607x658,starter,107.17,,2023-01-27,,2026-06-09,21,57.8,0,0,79,0,SG,HRTech,large,false,
+EXT-2520,Lane Inc,cwise@woods-rodriguez.com,921-518-2379x31269,growth,906.48,,2024-03-22,,2026-05-30,23,73.4,0,2,38,0,GB,InsurTech,mid,false,
+EXT-2521,Saunders LLC,vcollins@johnson.org,+1-960-943-8787x535,starter,175.40,,2024-08-30,,2026-04-10,4,31.2,3,9,19,0,DE,LegalTech,small,true,2025-03-28
+EXT-2522,"Peters, Singh and Quinn",simmonschris@sherman.net,001-812-837-1067x287,starter,162.90,,2023-10-30,,2026-04-24,3,17.0,3,7,-20,5,US,FinTech,large,false,
+EXT-2523,Phillips Group,jennifer48@gilbert-watson.com,(948)939-5894,free,0.00,,2023-12-20,,2026-06-09,19,85.0,0,1,63,0,SG,E-commerce,small,false,
+EXT-2524,Mayer Ltd,frankespinoza@smith-butler.com,910.443.3187x5109,growth,304.70,24,2023-08-09,2025-08-01,2026-06-02,17,70.5,0,0,48,0,AU,SaaS,large,false,
+EXT-2525,Bell PLC,michaelsmith@hill.org,001-545-696-4883x192,growth,526.59,,2022-10-06,,2025-12-29,5,47.1,6,8,-18,1,IN,LegalTech,small,true,2023-01-28
+EXT-2526,Baker Inc,lauramatthews@rivera-ingram.org,+1-449-473-2033x192,growth,310.05,,2023-11-29,,2026-06-08,17,71.3,0,0,77,0,BR,PropTech,mid,false,
+EXT-2527,Baxter-Morris,taylorlindsay@ortega-murphy.net,001-513-486-6675x485,starter,82.45,,2023-04-11,,2026-06-07,21,73.9,0,0,60,0,FR,LegalTech,mid,false,
+EXT-2528,"Bass, Dawson and Larsen",yhenry@jennings-grant.biz,+1-752-405-7563x9836,starter,167.86,,2022-07-29,,2026-06-11,19,78.3,0,1,35,0,US,LegalTech,mid,false,
+EXT-2529,"Cowan, Gonzalez and Ward",adamcollins@bartlett.net,6942047604,free,0.00,,2024-03-06,,2026-05-30,18,97.0,0,0,62,0,GB,LegalTech,small,false,
+EXT-2530,"Morrow, Roy and Pennington",ehenry@golden.com,(709)322-2161x070,enterprise,4479.65,24,2023-01-31,2025-01-01,2026-06-12,14,56.4,0,0,36,0,AU,PropTech,large,false,
+EXT-2531,"Ramirez, Phelps and Rios",cookemily@hurst-jackson.org,001-458-906-6013x824,growth,919.94,12,2024-08-01,2025-08-01,2026-06-11,24,77.8,1,1,52,0,NL,InsurTech,large,false,
+EXT-2532,Hill and Sons,vthompson@collins.com,357-491-9711,enterprise,3051.09,,2023-01-30,,2026-06-08,21,99.9,0,0,61,0,US,HealthTech,large,false,
+EXT-2533,"Miller, Stewart and Sims",wangkristina@little.com,001-734-832-4064x242,starter,165.21,,2024-04-12,,2026-06-06,15,59.1,1,1,34,0,CA,SaaS,small,false,
+EXT-2534,Conley LLC,gregoryphillips@gonzales.com,(787)620-9628x936,growth,340.76,,2024-11-27,,2026-05-01,2,30.5,3,4,-18,1,IN,PropTech,mid,true,2025-07-04
+EXT-2535,Peterson PLC,christopher34@mcdonald.com,727.227.9559x69051,starter,52.20,,2024-02-10,,2026-02-22,3,22.0,1,5,74,1,IN,LegalTech,large,false,
+EXT-2536,Fisher LLC,deborah12@torres-owens.com,001-707-997-9966x734,enterprise,4729.93,12,2023-01-02,2024-01-01,2026-06-07,21,70.9,1,1,,0,US,LegalTech,mid,false,
+EXT-2537,"Morales, Williams and Hickman",kathrynsantana@rodriguez.org,(790)228-2498x3922,starter,159.61,,2023-11-30,,2026-06-10,24,67.9,0,0,48,0,AU,LegalTech,small,false,
+EXT-2538,Parker and Sons,stephen27@hopkins.com,941-423-3613x2850,starter,107.87,,2023-01-11,,2026-06-09,33,78.2,0,1,53,0,CA,InsurTech,small,false,
+EXT-2539,Garcia-Pierce,ehale@bennett.com,(925)226-5469x6815,starter,107.09,,2023-01-10,,2026-05-10,25,73.9,0,0,60,0,GB,InsurTech,mid,false,
+EXT-2540,Blackwell and Sons,mikemorgan@bishop.com,+1-832-473-0346x1562,enterprise,4366.19,,2023-12-06,,2026-03-26,5,18.9,2,4,-40,2,NL,SaaS,mid,true,2025-06-30
+EXT-2541,Collins-Leonard,ajohnson@martin.net,471-851-6025,starter,57.49,,2024-10-04,,2026-06-06,19,58.4,1,1,79,0,SG,LegalTech,large,false,
+EXT-2542,"Gibson, Tucker and Choi",dhenderson@coleman-harmon.com,+1-878-357-5851x268,enterprise,2664.05,12,2022-08-16,2023-08-01,2026-03-24,6,2.4,2,3,65,1,NL,LegalTech,small,false,
+EXT-2543,Smith Ltd,james97@williams-campbell.com,475.609.5465x4084,starter,86.35,,2022-11-23,,2026-06-12,23,75.5,0,0,53,0,GB,HRTech,small,false,
+EXT-2544,Butler-Griffin,cynthia91@dennis-schmidt.biz,621.781.2276,growth,348.14,12,2024-06-04,2025-06-01,2026-06-08,21,68.7,0,0,54,0,AU,PropTech,large,false,
+EXT-2545,Barker-Sanchez,uwilliams@johnson-lynch.com,(581)654-6602x4161,starter,60.19,,2024-03-10,,2026-06-07,24,78.3,0,0,61,0,NL,PropTech,mid,false,
+EXT-2546,Gilbert-Ryan,heatherwilliams@kennedy.com,880-496-2440x630,growth,316.26,12,2024-02-29,2025-02-01,2026-06-10,25,100.0,1,2,52,0,BR,LegalTech,large,false,
+EXT-2547,Adams-George,colton30@nguyen.org,796.795.8678x055,starter,190.55,,2024-03-01,,2026-05-14,4,51.3,0,3,-31,0,IN,InsurTech,small,true,2026-03-04
+EXT-2548,Hernandez-Dickerson,sclark@chambers.biz,7916785138,starter,72.17,,2023-12-22,,2026-05-29,18,53.6,3,3,47,0,DE,HRTech,mid,false,
+EXT-2549,Potter-Hayes,njohnson@jackson.com,001-548-373-6826x911,growth,626.44,24,2023-12-17,2025-12-01,2026-06-11,18,77.4,0,0,70,1,AU,EdTech,small,false,
+EXT-2550,"Roberts, Hancock and Wang",wpierce@barnes.com,451-458-8863x67747,growth,364.03,24,2022-04-30,2024-04-01,2026-06-08,16,75.4,0,0,58,0,SG,FinTech,mid,false,
+EXT-2551,Roberts-Patel,kathryn21@carpenter-barnes.biz,(730)593-2998x19960,growth,955.94,,2022-01-11,,2026-06-07,25,64.6,0,0,83,1,CA,E-commerce,large,false,
+EXT-2552,Hudson Group,craneandrew@stephenson.com,(675)332-7352,starter,165.33,,2025-02-18,,2026-05-26,6,16.5,0,3,-30,1,AU,E-commerce,small,true,2025-10-28
+EXT-2553,Clark Group,msanchez@fritz-robles.info,319.852.3710x06876,growth,853.29,24,2023-01-19,2025-01-01,2026-05-27,25,73.4,0,1,60,0,SG,PropTech,large,false,
+EXT-2554,Ware-Medina,gonzalesmaria@carter.com,(768)876-1124x912,free,0.00,,2024-04-19,,2026-06-09,23,74.0,1,6,55,0,CA,InsurTech,small,false,
+EXT-2555,"Morgan, Durham and Pope",josephrivera@jones.com,001-645-247-5749x490,starter,121.06,,2025-02-27,,2026-06-09,27,51.4,1,1,63,0,AU,HRTech,mid,false,
+EXT-2556,Beard PLC,jennifer42@walters.com,(522)694-6430,free,0.00,,2023-12-02,,2026-06-10,18,63.6,1,2,70,0,IN,LegalTech,mid,false,
+EXT-2557,Silva LLC,jennifer86@montgomery-jackson.com,+1-929-885-8567x2872,starter,172.19,,2022-11-29,,2026-03-31,3,22.4,0,10,-7,1,US,EdTech,mid,true,2025-12-29
+EXT-2558,Barnett Inc,jeffrey33@ramirez.com,+1-335-777-9083x3506,starter,154.33,,2023-03-28,,2026-06-09,24,57.1,0,2,59,0,DE,LegalTech,large,false,
+EXT-2559,"Jones, Tran and Nichols",wallerbrian@mills.com,001-333-472-0948x413,growth,561.79,24,2023-08-16,2025-08-01,2026-06-01,16,84.9,1,1,50,0,AU,MarTech,large,false,
+EXT-2560,"Turner, Clark and Sanchez",imarshall@flores.com,571.971.7318,starter,129.12,,2022-04-05,,2026-06-07,27,80.2,0,1,42,0,AU,MarTech,mid,false,
+EXT-2561,Hudson-Perkins,cortezscott@lee.info,9466947258,enterprise,3123.54,,2022-02-21,,2026-06-10,13,85.2,0,0,86,0,IN,PropTech,mid,false,
+EXT-2562,"Evans, Camacho and Wright",erica84@alexander.info,6583772216,starter,57.94,,2023-04-30,,2026-06-01,20,38.0,0,0,46,0,DE,LegalTech,large,false,
+EXT-2563,Peterson-Mcdaniel,jamesrodriguez@lewis.com,487-414-9392x52362,growth,740.71,24,2023-04-23,2025-04-01,2026-05-28,25,72.9,1,2,62,0,CA,InsurTech,mid,false,
+EXT-2564,Frye-Zavala,rchan@cantu.com,(224)855-5746x966,growth,663.03,24,2024-03-01,2026-03-01,2026-06-02,24,59.5,1,1,78,0,SG,LegalTech,mid,true,2024-07-22
+EXT-2565,Schmitt LLC,theresawang@cardenas.com,+1-944-650-5665x8833,starter,111.29,,2024-04-05,,2026-06-11,20,83.7,0,0,51,0,NL,HRTech,small,false,
+EXT-2566,Jones and Sons,jennifer97@harrington.info,649.796.0105,starter,76.27,,2023-04-22,,2026-02-08,2,37.3,4,7,30,2,CA,MarTech,mid,true,2025-08-20
+EXT-2567,Mclean-Rodriguez,nicolejones@gutierrez.com,001-638-617-3598,enterprise,3921.01,,2023-01-22,,2026-05-28,15,50.0,0,0,61,0,SG,PropTech,mid,false,
+EXT-2568,"Johnson, Barton and Jones",susan57@wilkerson.info,(953)244-9021x666,growth,405.72,12,2024-07-23,2025-07-01,2026-06-07,24,70.1,0,1,88,0,NL,LegalTech,small,false,
+EXT-2569,"Brown, Mayo and Brooks",gforbes@tyler-vasquez.org,511-391-8182x81979,starter,85.56,,2023-04-06,,2026-06-03,14,83.0,0,0,96,0,US,LegalTech,large,false,
+EXT-2570,"Jordan, Hill and Hayes",debrajones@johnston.biz,5697409600,growth,536.90,,2025-02-23,,2026-06-10,19,73.2,0,0,42,0,GB,FinTech,mid,false,
+EXT-2571,Hernandez-Foley,amanda39@barry-espinoza.org,(232)434-2108,free,0.00,,2023-10-26,,2026-04-11,4,5.5,0,5,-21,2,CA,EdTech,mid,true,2023-12-08
+EXT-2572,"Bailey, Jones and Harrell",dominiqueharris@coleman.com,550.827.1607,starter,81.34,,2024-06-05,,2026-03-04,7,19.8,2,2,35,1,FR,PropTech,large,true,2026-01-22
+EXT-2573,Griffin Group,jamiejames@davis.net,001-781-823-1795,growth,758.84,,2022-12-05,,2026-06-08,9,81.0,0,1,,0,DE,InsurTech,large,false,
+EXT-2574,Clark Inc,timothy81@smith-james.biz,(615)754-1643x1670,growth,587.05,,2022-07-05,,2026-06-04,19,63.3,0,0,59,0,SG,HealthTech,mid,false,
+EXT-2575,Taylor and Sons,anneanderson@taylor.com,4934459626,growth,694.79,,2022-07-27,,2026-06-06,25,99.4,0,2,57,0,NL,HealthTech,small,false,
+EXT-2576,"Sanford, Harmon and Patrick",michaelbuckley@johnson.com,(254)895-0050x7026,starter,146.55,,2022-07-05,,2026-06-04,18,74.4,0,0,54,1,DE,FinTech,mid,false,
+EXT-2577,"Sharp, Jackson and Garcia",phyllis16@rodriguez.info,(387)929-0477x42585,growth,852.25,12,2024-03-05,2025-03-01,2026-06-12,18,66.5,0,1,56,0,CA,SaaS,large,false,
+EXT-2578,Goodman-Christian,davidrobertson@perez.com,001-664-491-3342x457,growth,885.80,12,2024-10-31,2025-10-01,2026-06-10,25,56.6,0,0,45,0,BR,MarTech,small,false,
+EXT-2579,Henderson-Stanley,adkinslauren@williams.com,+1-803-926-5097x7539,starter,68.37,,2024-12-04,,2026-02-22,3,48.4,3,8,-25,3,CA,PropTech,large,true,2025-08-26
+EXT-2580,Chavez LLC,rwilson@mack.com,257-487-1584x156,enterprise,4455.03,24,2022-12-14,2024-12-01,2026-06-09,15,73.3,0,2,100,0,US,InsurTech,large,false,
+EXT-2581,Perez Group,martinezjennifer@marks.info,(481)282-6832x30358,growth,571.99,,2022-07-01,,2026-06-04,26,47.5,0,2,52,0,GB,EdTech,mid,false,
+EXT-2582,"Cox, Hall and Valentine",nicholasgarcia@reid.com,001-928-796-3406x468,growth,989.79,12,2023-01-14,2024-01-01,2026-06-02,26,72.8,1,2,80,0,SG,FinTech,large,false,
+EXT-2583,Griffith LLC,jonesjeanette@collins.com,8628272362,starter,66.88,,2024-03-07,,2026-06-11,20,87.0,0,0,,0,IN,SaaS,large,false,
+EXT-2584,"Lee, Flowers and Jones",donald61@singh.info,(945)501-8481,starter,52.86,,2024-03-16,,2026-06-10,14,95.3,0,2,53,1,NL,EdTech,small,false,
+EXT-2585,"Gonzales, Short and Weaver",whernandez@peterson.biz,717-569-2743x811,enterprise,3220.93,,2023-09-30,,2026-06-05,19,74.4,0,1,,0,BR,LegalTech,large,false,
+EXT-2586,"Simpson, Miles and Reynolds",littlemichelle@kirby-oconnor.com,+1-585-864-5101x7397,starter,129.35,,2025-02-22,,2026-06-08,18,80.5,1,1,100,0,IN,FinTech,mid,false,
+EXT-2587,"Baker, Osborn and Mckenzie",kcastro@obrien-harrell.biz,7918919113,starter,188.72,,2024-06-22,,2026-02-16,3,75.4,4,5,42,0,BR,FinTech,large,false,
+EXT-2588,Higgins-Williams,kphelps@johnson.biz,+1-703-792-0514x6074,enterprise,3952.30,24,2023-12-18,2025-12-01,2026-06-03,15,82.0,0,0,92,0,GB,HRTech,large,false,
+EXT-2589,Hill Inc,stephen42@hansen.com,001-365-327-1559x835,starter,83.22,,2024-06-30,,2026-02-23,4,24.2,2,7,39,0,BR,HealthTech,large,false,
+EXT-2590,"Sullivan, Howell and Fowler",tharris@bell-shaffer.com,001-422-850-1394x884,starter,63.20,,2023-12-10,,2026-06-10,15,97.5,0,0,40,1,US,LegalTech,small,false,
+EXT-2591,"Dominguez, Gonzalez and Davis",jphelps@peterson.biz,549-491-5370,growth,573.23,24,2023-10-11,2025-10-01,2026-06-07,19,71.0,0,2,48,0,SG,PropTech,small,false,
+EXT-2592,"Haney, Johnson and Walker",johnperez@cain.com,+1-877-868-8936x289,starter,144.55,,2024-04-20,,2026-06-09,19,81.2,0,2,73,0,US,FinTech,small,false,
+EXT-2593,"Green, Robles and Cox",ryan53@fernandez-jones.com,538-992-1878x51935,enterprise,2050.41,24,2024-04-29,2026-04-01,2026-06-11,23,38.4,0,0,72,0,BR,FinTech,large,false,
+EXT-2594,Andrews-Brown,bcrawford@benton.com,+1-378-605-7215,starter,73.79,,2024-09-21,,2026-06-12,15,68.0,0,1,66,0,CA,HRTech,small,false,
+EXT-2595,"King, Mosley and Johnson",wjordan@andersen.info,284-753-9862x8950,starter,133.64,,2022-12-07,,2026-06-10,20,64.4,0,0,64,0,AU,EdTech,large,false,
+EXT-2596,"Wilson, Madden and Austin",ucross@wright.com,(807)815-1169,enterprise,4882.12,24,2022-04-16,2024-04-01,2026-06-08,21,92.7,0,0,32,0,IN,HealthTech,small,false,
+EXT-2597,Horton-Taylor,isaac45@mann.info,924-363-3515,free,0.00,,2024-12-26,,2026-05-20,3,41.0,3,5,13,1,CA,E-commerce,small,true,2025-09-07
+EXT-2598,"Scott, Suarez and Brown",flemingcody@stuart.com,4565409951,enterprise,3651.47,,2023-07-17,,2026-06-01,27,57.2,0,0,32,0,CA,LegalTech,large,false,
+EXT-2599,"Oliver, White and Robinson",collin29@berry-vance.com,427.309.0814x41529,starter,85.13,,2024-10-25,,2026-06-08,26,61.5,0,0,89,0,AU,E-commerce,small,false,
+EXT-2600,Lee-Moore,sharon86@raymond-barnett.com,335-723-7360x50791,growth,395.74,12,2024-02-19,2025-02-01,2026-04-29,2,37.9,6,7,,0,IN,PropTech,small,false,
+EXT-2601,"Hart, Park and Boyd",justintaylor@carter.biz,(666)917-0715x8796,starter,84.25,,2024-11-26,,2026-05-30,19,82.4,0,1,100,0,CA,PropTech,mid,false,
+EXT-2602,Townsend-Hale,lopezchristopher@adkins.com,001-408-700-4635x806,growth,879.25,12,2022-07-08,2023-07-01,2026-06-10,19,93.8,1,1,73,0,NL,E-commerce,small,false,
+EXT-2603,"Lyons, Lozano and Garcia",patriciajoseph@klein.com,001-590-706-3140,starter,88.85,,2023-01-13,,2026-03-29,3,21.2,2,5,18,2,NL,HealthTech,small,true,2023-05-11
+EXT-2604,Benitez and Sons,samantha60@thomas.org,+1-946-694-3460x6664,growth,579.94,,2024-05-02,,2026-05-05,3,39.9,3,7,7,0,CA,HealthTech,mid,true,2025-04-09
+EXT-2605,"Smith, Schwartz and Williams",sanderson@jones.com,(671)628-5246,free,0.00,,2023-05-08,,2026-05-27,4,18.6,4,6,-29,1,FR,FinTech,small,true,2025-08-25
+EXT-2606,Foley-Green,fosternicole@clements.info,228.807.7113,starter,88.94,,2023-12-02,,2026-06-07,13,73.9,0,1,51,0,IN,InsurTech,small,false,
+EXT-2607,Miller Ltd,allenchristina@rodgers-ramos.com,+1-583-235-0902x5425,free,0.00,,2025-02-11,,2026-06-12,18,76.4,0,0,,2,DE,E-commerce,small,false,
+EXT-2608,James-Arroyo,perezcourtney@barrett-gonzales.info,739-284-8228,enterprise,4501.51,12,2024-02-12,2025-02-01,2026-06-04,15,88.1,0,0,46,0,AU,E-commerce,small,false,
+EXT-2609,Cohen Group,montgomerygeoffrey@wood-thomas.com,+1-330-260-9069x1309,growth,335.96,12,2025-01-23,2026-01-01,2026-05-10,21,75.0,1,1,63,0,GB,FinTech,large,false,
+EXT-2610,"Holloway, Alvarez and Duncan",ncampbell@cole-adkins.info,+1-445-877-2785x324,enterprise,1848.30,,2024-01-28,,2026-02-22,7,44.3,2,4,63,2,US,SaaS,small,true,2024-08-04
+EXT-2611,Macias-Richardson,reynoldskevin@stevens.net,962.953.6667,enterprise,2430.27,12,2022-10-29,2023-10-01,2026-05-30,15,66.3,0,0,64,0,AU,LegalTech,mid,false,
+EXT-2612,Ford-Morgan,handerson@sanchez.com,001-539-857-8654,starter,74.28,,2025-02-15,,2026-04-15,4,15.9,1,10,-21,3,AU,FinTech,small,true,2025-07-28
+EXT-2613,Harrison PLC,xevans@jenkins.com,+1-868-562-7036x9249,enterprise,2056.39,,2024-05-14,,2026-06-02,2,41.6,0,3,10,2,BR,MarTech,mid,true,2025-02-25
+EXT-2614,Jenkins Group,mirandaanderson@stewart-fitzpatrick.org,501.611.0005x15532,growth,768.42,,2024-06-13,,2026-06-11,23,56.1,0,0,20,0,US,LegalTech,mid,false,
+EXT-2615,Cox LLC,talvarez@roberts.net,(922)661-8962,growth,733.52,,2023-08-31,,2026-05-12,26,45.1,2,2,61,0,FR,LegalTech,small,false,
+EXT-2616,"Charles, Wright and Wilson",reginadavis@taylor.info,(772)709-5799x2707,starter,99.47,,2024-03-17,,2026-06-04,30,83.6,0,1,64,0,AU,PropTech,mid,false,
+EXT-2617,Tanner Inc,dennisevans@rangel-rodriguez.com,+1-654-515-9709x9625,growth,691.67,12,2023-10-30,2024-10-01,2026-06-09,27,60.5,0,1,56,0,CA,HRTech,large,false,
+EXT-2618,"Ramirez, Meyer and Moon",kflores@banks.com,276-250-4715x802,growth,714.57,12,2023-05-24,2024-05-01,2026-05-28,23,72.8,0,0,67,0,US,EdTech,small,false,
+EXT-2619,James-Conway,sprice@nelson.net,(765)325-4837x44171,starter,150.66,,2022-05-28,,2026-06-06,14,88.1,1,1,70,1,AU,E-commerce,mid,false,
+EXT-2620,Cochran Inc,charlesbrooks@armstrong.com,700-359-1297,free,0.00,,2022-01-14,,2026-01-13,1,7.2,3,8,0,2,AU,HealthTech,mid,true,2025-12-02
+EXT-2621,"Martinez, Padilla and Gonzalez",lopezjennifer@smith.com,901.465.8373,enterprise,4637.04,24,2023-02-10,2025-02-01,2026-05-30,26,61.2,0,0,36,0,FR,FinTech,large,false,
+EXT-2622,Roberts-Lowe,ramoswilliam@thompson.com,(589)431-1325,growth,418.49,,2022-11-10,,2026-06-09,24,99.5,0,0,77,0,DE,E-commerce,mid,false,
+EXT-2623,Reid-Vargas,shunter@simmons.com,904.242.1017x50961,starter,198.96,,2023-02-03,,2026-06-03,19,64.5,1,1,41,1,SG,SaaS,small,false,
+EXT-2624,"Craig, Flores and Wise",helen91@baker.info,(874)975-8339x205,growth,589.49,,2023-10-13,,2026-05-28,25,60.0,2,2,68,0,DE,E-commerce,mid,false,
+EXT-2625,Nguyen-Hogan,dford@hernandez-rojas.biz,(502)356-2650x62292,enterprise,4652.29,,2024-03-11,,2026-06-09,19,65.5,0,0,33,0,NL,PropTech,mid,false,
+EXT-2626,Myers and Sons,matthew07@moore-gallegos.net,333-379-7662x705,starter,169.12,,2023-12-29,,2026-06-09,25,60.7,0,0,41,0,GB,HealthTech,small,false,
+EXT-2627,Mccarthy-Franklin,joeharding@butler.com,+1-725-449-6919x2845,enterprise,2275.21,,2022-01-28,,2026-06-11,26,86.6,0,3,78,0,AU,SaaS,small,false,
+EXT-2628,Cunningham-Wells,westrobert@blackburn.com,574-585-9532x59399,enterprise,4553.09,,2023-10-07,,2026-05-27,17,65.6,0,0,,0,BR,PropTech,mid,false,
+EXT-2629,Elliott-Zamora,william16@hanson.net,579.541.7634x2507,growth,558.26,24,2024-01-03,2026-01-01,2026-06-10,25,71.5,0,0,79,0,SG,MarTech,large,false,
+EXT-2630,"Smith, Kelly and Oliver",kristenfrye@galloway-jacobs.net,639.591.4038,enterprise,3005.61,12,2022-06-17,2023-06-01,2026-06-10,24,51.0,2,2,100,0,AU,InsurTech,mid,false,
+EXT-2631,Henderson-Cardenas,evansjames@johnson-pearson.biz,957-727-6829,growth,751.00,,2025-01-04,,2026-06-06,19,97.1,0,0,60,0,DE,LegalTech,small,false,
+EXT-2632,Giles Group,james97@martin-anderson.com,205-887-5256,free,0.00,,2024-03-08,,2026-06-04,20,69.3,0,0,84,0,AU,EdTech,small,false,
+EXT-2633,"Nguyen, Thompson and Austin",schneidermario@williams.com,311.822.1823x1555,enterprise,4520.56,12,2022-08-06,2023-08-01,2026-06-08,30,74.0,0,1,73,0,SG,MarTech,small,false,
+EXT-2634,Potter-Vasquez,warrendarlene@neal-kelley.com,272.214.3308,growth,496.09,12,2022-11-02,2023-11-01,2026-05-20,34,100.0,0,0,46,0,AU,HRTech,mid,false,
+EXT-2635,"Cameron, Perez and Williams",katherinedodson@mason.biz,001-560-584-7068x103,enterprise,3490.65,,2024-12-22,,2026-06-12,28,81.2,2,3,24,0,GB,E-commerce,small,false,
+EXT-2636,"Henry, Bailey and Miller",william26@hernandez.org,648-858-6239x4535,growth,736.00,,2024-11-22,,2026-06-10,18,58.1,0,0,68,0,FR,LegalTech,large,false,
+EXT-2637,Santos Group,griffintammy@hunt.com,(613)539-4394x5703,growth,355.64,24,2022-04-28,2024-04-01,2026-05-25,25,68.0,0,1,52,0,NL,EdTech,mid,false,
+EXT-2638,"Johnson, Smith and Gallegos",jamie65@joyce-guzman.com,278.694.3191x0090,enterprise,3593.61,,2023-10-22,,2026-06-08,16,81.0,1,2,67,0,FR,PropTech,large,false,
+EXT-2639,Turner Group,coltonrichardson@lee.com,260-940-1424x731,starter,176.79,,2022-09-26,,2026-06-03,34,48.1,2,2,45,0,BR,HRTech,large,false,
+EXT-2640,Smith Inc,spencertanner@grant.info,823-916-6007,free,0.00,,2022-02-16,,2026-01-12,5,37.0,2,4,13,0,CA,PropTech,large,true,2022-06-05
+EXT-2641,Thompson-Smith,douglassusan@mckinney-higgins.com,504-233-7009x687,starter,116.60,,2022-08-09,,2026-04-30,1,68.5,4,5,13,5,IN,PropTech,mid,true,2023-06-10
+EXT-2642,Cox-George,ihoover@brooks.net,+1-925-756-2965,growth,636.89,24,2024-11-30,2026-11-01,2026-04-24,2,25.3,3,7,-19,4,AU,LegalTech,large,true,2025-10-27
+EXT-2643,Hernandez-Chambers,alowe@ali-miller.com,(455)777-8205,free,0.00,,2023-12-20,,2026-06-05,19,69.3,0,0,,0,DE,FinTech,mid,false,
+EXT-2644,"Chen, Garner and Rosales",tiffanysparks@sanders.net,+1-508-719-0482,growth,364.92,,2023-05-12,,2026-06-06,20,77.7,1,1,57,0,IN,LegalTech,mid,false,
+EXT-2645,Wilson-Dennis,amy68@weiss.biz,001-613-572-3081x721,starter,74.32,,2022-06-17,,2026-06-04,20,74.3,2,2,60,0,NL,HealthTech,small,false,
+EXT-2646,Turner-Clark,lynnjames@johnson.com,(211)647-1656,growth,594.03,24,2023-12-13,2025-12-01,2026-06-10,22,46.4,0,0,,0,NL,HRTech,large,false,
+EXT-2647,Hughes-Clark,eharvey@mendez.com,955.204.7681x6995,free,0.00,,2024-07-16,,2026-04-20,3,34.7,6,9,13,0,GB,InsurTech,mid,true,2025-06-11
+EXT-2648,Johnson-Freeman,wellsamy@sanchez.com,865.339.7054x873,starter,141.17,,2024-09-25,,2026-05-26,27,72.9,0,0,97,0,AU,HRTech,large,false,
+EXT-2649,Sutton PLC,wallssean@white.net,+1-704-891-8727x4204,growth,475.62,,2022-02-23,,2026-06-09,13,46.6,0,0,53,0,SG,EdTech,small,false,
+EXT-2650,Mcdaniel Inc,timothywright@parsons-roman.com,001-460-442-3597x371,starter,181.55,,2022-10-05,,2026-05-09,2,23.7,2,5,5,4,IN,HealthTech,large,true,2024-05-22
+EXT-2651,"Irwin, Jacobs and Johnson",srichardson@smith-warren.com,+1-681-767-0468x6111,growth,727.48,12,2023-03-17,2024-03-01,2026-06-01,28,59.2,2,2,57,0,AU,HRTech,large,false,
+EXT-2652,Morales-Calhoun,davidmartin@lopez.net,(584)471-2961x803,enterprise,4836.18,,2022-12-30,,2026-06-05,27,78.3,0,0,65,0,SG,LegalTech,small,false,
+EXT-2653,Anderson-Miles,watsonwilliam@rodriguez.com,001-580-942-5373,growth,770.65,12,2025-02-03,2026-02-01,2026-06-10,12,71.8,0,0,69,0,NL,EdTech,small,false,
+EXT-2654,Mendoza-Garcia,otran@trevino.net,(717)581-9236,growth,455.64,24,2023-03-06,2025-03-01,2026-06-12,25,67.7,0,1,91,0,IN,FinTech,large,false,
+EXT-2655,Russell-Goodwin,harrellkimberly@lee.com,(679)932-7986x2398,starter,147.17,,2022-11-17,,2026-06-06,21,59.5,0,0,53,0,NL,HealthTech,mid,false,
+EXT-2656,Reynolds Inc,fjones@snow.com,964-875-4895x478,starter,171.61,,2023-08-28,,2026-06-10,27,55.3,0,2,92,0,AU,E-commerce,mid,false,
+EXT-2657,"Lawrence, Castro and Fleming",taylordavis@hester-patel.org,+1-514-744-4983x5539,enterprise,4351.83,24,2024-04-02,2026-04-01,2026-06-11,22,51.0,0,2,,0,IN,PropTech,large,false,
+EXT-2658,Lee-Rogers,mramirez@santiago-lopez.org,(443)358-8537,growth,356.31,,2022-02-19,,2026-06-07,27,53.1,1,2,26,1,GB,PropTech,small,false,
+EXT-2659,"Sharp, Carter and Wright",isaac75@myers.com,001-378-852-4914,starter,129.88,,2023-01-02,,2026-05-27,23,75.9,0,1,57,0,DE,E-commerce,small,false,
+EXT-2660,"Riggs, Smith and Lopez",sarah78@nicholson.com,3674917665,starter,165.87,,2022-12-11,,2026-06-05,15,90.5,1,1,47,1,SG,HRTech,large,false,
+EXT-2661,Martinez Inc,boonejoshua@nichols.biz,609.800.1594,enterprise,2147.53,24,2022-07-22,2024-07-01,2026-06-04,22,82.4,0,0,83,0,IN,MarTech,large,false,
+EXT-2662,Hall PLC,sarah53@johnson.com,001-332-363-8902x199,enterprise,4633.22,12,2024-05-07,2025-05-01,2026-04-08,4,13.8,6,6,-52,2,AU,HRTech,large,true,2025-08-22
+EXT-2663,Bruce and Sons,stephenmartin@lowery.com,5343699673,starter,96.94,,2024-03-28,,2026-05-18,18,77.7,1,1,66,0,CA,EdTech,mid,false,
+EXT-2664,Ortiz Group,yhernandez@christensen.com,+1-776-485-5078x9679,growth,920.66,24,2025-02-05,2027-02-01,2026-06-07,23,60.6,0,0,76,0,IN,HRTech,large,false,
+EXT-2665,"Jones, Hood and Vega",kristinclark@gomez-hill.com,269.870.9317,starter,162.79,,2023-07-13,,2026-04-08,3,13.7,0,3,-13,1,CA,E-commerce,large,true,2025-01-03
+EXT-2666,"Reed, James and Henry",fblankenship@scott-perez.com,772-223-9898x306,starter,137.95,,2022-02-21,,2026-06-05,28,73.4,1,1,55,0,BR,MarTech,small,false,
+EXT-2667,Davis and Sons,gilbertangela@miller-frederick.info,(442)364-2364,free,0.00,,2022-02-26,,2026-05-25,2,18.3,1,4,-22,2,BR,FinTech,mid,true,2023-07-11
+EXT-2668,Wiggins PLC,armstrongkrista@thompson.com,303.991.1142,starter,180.17,,2022-06-25,,2026-04-24,0,14.8,8,9,1,1,NL,SaaS,small,true,2022-12-24
+EXT-2669,"Hodges, Cummings and Hernandez",johnsmith@miranda.com,680.962.2072x23959,starter,165.41,,2023-11-27,,2026-06-06,14,82.1,1,2,,0,DE,InsurTech,mid,false,
+EXT-2670,Gibson Ltd,reevesfernando@webster.com,878-676-8868x7859,starter,184.32,,2023-06-24,,2026-06-04,19,79.8,0,1,87,0,US,MarTech,large,false,
+EXT-2671,"Giles, Jackson and Hodge",lindaclark@vang.biz,(464)650-5730x3627,growth,792.87,12,2022-03-09,2023-03-01,2026-06-08,22,76.2,0,0,48,0,AU,PropTech,large,false,
+EXT-2672,Sanchez-Smith,rebeccaking@owens-marshall.com,826.803.2145x057,starter,168.84,,2023-04-12,,2026-06-10,18,80.3,0,0,75,0,BR,EdTech,large,false,
+EXT-2673,George LLC,ewilliams@gomez.com,920.812.8400x83850,enterprise,4686.40,12,2022-01-19,2023-01-01,2026-06-06,19,68.2,1,1,74,0,FR,E-commerce,small,false,
+EXT-2674,Lindsey-Stevens,justin08@martinez.net,6894812657,enterprise,3011.85,24,2024-06-09,2026-06-01,2026-06-11,14,80.2,0,0,66,0,GB,FinTech,small,false,
+EXT-2675,Gill and Sons,jensenjoshua@williams.com,(636)593-6268,starter,118.94,,2022-09-17,,2026-06-04,20,69.3,1,1,87,0,IN,E-commerce,large,false,
+EXT-2676,Ritter and Sons,bakertimothy@robinson.info,717-759-5749,growth,922.61,12,2023-05-15,2024-05-01,2026-06-11,17,70.0,0,1,51,0,CA,HRTech,large,false,
+EXT-2677,"Moore, Fleming and Moran",linda33@hamilton.com,947.460.9441x28333,free,0.00,,2025-02-06,,2026-06-03,21,97.3,4,4,34,0,BR,FinTech,large,false,
+EXT-2678,Terry PLC,robert66@rivera.info,+1-615-506-6626x7055,starter,164.41,,2023-12-24,,2026-06-03,22,71.2,0,0,80,0,GB,MarTech,mid,false,
+EXT-2679,Koch-Vasquez,zchapman@atkinson-mitchell.org,(352)395-9611,growth,621.45,24,2023-01-06,2025-01-01,2026-06-08,25,100.0,0,2,58,0,DE,PropTech,large,false,
+EXT-2680,"Smith, Fernandez and Vasquez",michaellaura@wong.com,6247559102,starter,57.43,,2024-03-14,,2026-02-09,3,18.7,2,7,-19,2,DE,HRTech,mid,true,2025-01-01
+EXT-2681,Williams PLC,mcneilchristina@clarke.info,449-349-8194,starter,125.10,,2023-07-02,,2026-04-07,2,12.2,1,6,39,2,GB,SaaS,mid,false,
+EXT-2682,Obrien-Green,crawfordjeffrey@johnson-phelps.com,001-577-558-4466x345,starter,97.92,,2025-01-09,,2026-05-23,4,30.0,0,3,,5,SG,InsurTech,large,true,2026-03-12
+EXT-2683,Hernandez-Moore,brownnancy@rodriguez.com,(814)355-9376,starter,96.00,,2024-05-15,,2026-04-20,3,17.6,4,8,-2,2,SG,EdTech,mid,true,2025-02-22
+EXT-2684,"Barnett, Powers and Daniel",sharon37@johnson.com,9044627765,starter,162.13,,2024-07-22,,2026-06-01,21,81.7,2,2,21,0,GB,InsurTech,small,false,
+EXT-2685,Mcgee-Zimmerman,susan92@booth.com,(817)252-0238x97432,starter,65.51,,2025-02-28,,2026-05-10,24,62.4,0,0,,0,AU,EdTech,large,true,2026-05-02
+EXT-2686,Welch Ltd,lauren55@garcia.com,525.884.8689,free,0.00,,2022-07-02,,2026-04-15,7,30.5,1,6,52,1,CA,MarTech,large,true,2025-03-25
+EXT-2687,"Mcbride, Gibson and Ball",amber70@cook-russell.com,567.699.3593x7440,starter,157.75,,2022-11-13,,2026-06-11,23,60.5,1,1,42,0,IN,E-commerce,small,false,
+EXT-2688,Baker-Schmidt,walkerlorraine@sanders.com,248-986-0849,growth,442.44,24,2022-03-10,2024-03-01,2026-06-07,18,82.3,0,0,,0,US,HealthTech,small,false,
+EXT-2689,"Lewis, Stanley and Roberts",wyattsara@castro-murphy.net,+1-630-661-5370x1242,free,0.00,,2025-02-05,,2026-06-05,20,52.0,0,0,44,0,BR,HRTech,large,false,
+EXT-2690,Martin-Simmons,michaelhubbard@collins-daniels.net,+1-311-921-0314x2175,enterprise,1627.66,24,2022-12-02,2024-12-01,2026-06-11,23,85.6,1,3,59,0,NL,InsurTech,small,false,
+EXT-2691,"Martinez, Contreras and Ramirez",kellychristopher@hughes.net,909-711-2252x883,growth,449.58,,2022-12-22,,2026-06-12,26,59.9,0,0,93,0,BR,E-commerce,small,false,
+EXT-2692,Peterson Group,ggarcia@lewis-lee.info,001-591-237-8765x530,starter,113.42,,2024-06-20,,2026-06-12,18,62.7,2,2,44,0,NL,FinTech,small,false,
+EXT-2693,"Kelly, Huerta and Peck",robert05@miller-cameron.org,581.692.7788x51905,starter,106.23,,2023-07-04,,2026-06-06,22,73.2,1,1,65,0,AU,EdTech,large,false,
+EXT-2694,"Short, Carter and Trevino",crosbyelizabeth@dominguez.com,256-618-5174x460,enterprise,1902.09,,2024-02-12,,2026-05-30,30,67.2,0,1,32,0,CA,HRTech,large,false,
+EXT-2695,Lopez-Davis,sarahmorrison@cox.com,001-355-612-9391x304,starter,109.26,,2024-01-27,,2026-06-06,21,83.7,0,1,44,0,IN,FinTech,mid,false,
+EXT-2696,"Barrett, Garcia and Powell",collinsnatalie@barrett.com,(711)890-1707,growth,545.41,,2022-10-03,,2026-06-07,25,81.6,0,0,27,0,NL,LegalTech,small,false,
+EXT-2697,"Rodriguez, Moore and Ayers",christopherjackson@hull.com,532.228.3608x4937,starter,168.41,,2023-05-02,,2026-05-26,18,50.4,0,0,72,0,BR,FinTech,small,false,
+EXT-2698,Clark-Estrada,mallorycarter@sullivan.biz,001-944-239-1649,enterprise,4214.19,12,2023-07-24,2024-07-01,2026-04-30,4,15.0,4,5,2,0,SG,SaaS,small,false,
+EXT-2699,Sullivan and Sons,hayley92@carpenter.com,230.516.2341,growth,775.57,24,2023-11-12,2025-11-01,2026-06-12,21,63.5,1,1,99,0,NL,HealthTech,small,false,
+EXT-2700,"Rodriguez, Horton and Gutierrez",jamie22@wong.biz,(684)873-2365x3377,starter,60.48,,2022-07-21,,2026-04-01,4,53.0,1,3,5,2,GB,SaaS,large,true,2023-04-20
+EXT-2701,King Group,ymoore@goodman.com,261.942.4426,growth,765.59,12,2023-03-11,2024-03-01,2026-06-08,18,68.0,0,1,100,0,NL,HRTech,large,false,
+EXT-2702,"Brown, Gibson and Turner",shannonbarker@franco-stuart.com,(573)472-0376,starter,182.61,,2022-02-01,,2026-06-05,17,50.7,1,1,63,0,CA,E-commerce,mid,false,
+EXT-2703,Adams LLC,hannah48@francis-smith.org,434-943-8998,starter,177.21,,2024-05-06,,2026-03-10,6,28.8,3,6,5,1,AU,HRTech,mid,true,2024-06-27
+EXT-2704,"Smith, Benjamin and Murphy",abradley@lee-rodriguez.com,001-964-549-3699x951,free,0.00,,2022-09-18,,2026-06-11,22,66.8,0,0,83,0,CA,MarTech,small,false,
+EXT-2705,Nguyen LLC,thomas38@snyder-jordan.net,9118923603,growth,827.95,,2022-07-15,,2026-05-02,0,0.0,1,5,2,2,AU,HRTech,small,true,2022-09-06
+EXT-2706,"Ferrell, Jones and Becker",ohiggins@lewis.com,001-561-349-7315,growth,722.07,12,2022-05-15,2023-05-01,2026-06-11,18,70.3,0,0,81,0,US,FinTech,large,false,
+EXT-2707,Trujillo PLC,bradleybarker@jackson.info,665.211.8939,enterprise,4295.27,,2024-06-16,,2026-06-04,27,51.0,0,2,65,0,AU,MarTech,small,false,
+EXT-2708,Horton-Michael,khawkins@rodgers.org,5435223023,enterprise,3240.18,24,2022-06-11,2024-06-01,2026-06-03,21,87.4,0,0,,0,SG,HealthTech,mid,false,
+EXT-2709,Phillips Inc,iperez@wilson.com,(446)821-2760x250,starter,108.25,,2022-11-16,,2026-02-04,4,28.8,1,1,24,4,US,EdTech,mid,true,2024-10-23
+EXT-2710,Miller and Sons,charlesperry@perez-hess.com,001-588-989-9572x989,free,0.00,,2022-09-06,,2025-11-15,7,29.7,1,3,,3,US,HRTech,large,false,
+EXT-2711,Jackson-Copeland,qramirez@lewis.com,464.268.7191,starter,95.93,,2023-01-11,,2025-12-11,3,38.5,6,9,11,3,US,PropTech,mid,false,
+EXT-2712,Mclaughlin PLC,castroralph@carpenter.net,(383)523-0898,starter,120.86,,2024-12-25,,2026-06-12,26,95.7,1,2,35,0,IN,E-commerce,small,false,
+EXT-2713,"Tran, Morgan and Medina",jose82@williams.com,(331)782-9716,starter,101.05,,2024-11-24,,2026-06-08,14,63.5,3,4,67,0,BR,E-commerce,mid,false,
+EXT-2714,Martin-Hill,anthony00@vazquez.com,429-711-3717x85090,starter,105.36,,2024-02-29,,2026-06-09,16,51.5,0,1,34,0,NL,PropTech,large,false,
+EXT-2715,Gray-Wilson,karen42@gardner.org,+1-798-874-7812x2489,growth,902.94,,2024-01-03,,2026-06-07,31,89.6,0,0,66,0,BR,HRTech,mid,false,
+EXT-2716,Williams-Hamilton,williamsbrandon@green.com,358-548-2669,growth,802.48,,2023-03-16,,2026-05-22,3,26.6,3,8,11,1,DE,FinTech,small,true,2024-02-29
+EXT-2717,Hernandez-Adams,vickiwood@diaz.org,(908)707-0633x6998,growth,627.02,,2024-05-20,,2026-06-09,25,91.0,0,0,52,0,AU,SaaS,large,false,
+EXT-2718,Barton Ltd,davidbrown@hebert.com,818.580.4428x77383,enterprise,4259.60,24,2025-02-06,2027-02-01,2026-04-23,2,21.6,1,6,42,3,SG,LegalTech,mid,true,2026-02-20
+EXT-2719,"Holland, Ross and Allen",thomasricardo@phillips.com,(342)903-6258x63144,growth,973.20,,2023-10-22,,2026-05-26,17,74.2,0,0,77,0,BR,HealthTech,large,false,
+EXT-2720,Short LLC,wmoore@todd-cline.com,(263)355-8243,starter,168.71,,2024-08-04,,2026-06-11,14,69.7,0,1,55,0,IN,HealthTech,small,false,
+EXT-2721,Bennett-Jenkins,michelle89@wagner.com,(738)288-2452x790,growth,557.94,,2024-03-22,,2026-06-04,24,79.6,0,1,97,1,AU,EdTech,small,false,
+EXT-2722,Mcdaniel-Brown,john33@lee-fox.org,216-532-1119x78718,starter,154.09,,2023-02-14,,2026-06-08,7,66.9,0,1,,0,IN,E-commerce,large,false,
+EXT-2723,Watkins Ltd,travistaylor@morris.com,001-211-298-7561x786,enterprise,3929.07,12,2023-11-15,2024-11-01,2026-06-02,18,51.7,0,0,46,0,US,E-commerce,mid,false,
+EXT-2724,Clark Inc,willismatthew@rodriguez-anderson.org,503.865.7744x91609,growth,854.10,,2023-12-08,,2026-06-08,21,58.1,0,0,36,0,GB,E-commerce,large,false,
+EXT-2725,Lynch-Reed,jonescassandra@pitts.org,818-543-3687x5092,starter,121.93,,2023-03-28,,2026-05-08,4,46.4,1,5,17,2,US,InsurTech,mid,false,
+EXT-2726,Briggs and Sons,catherinewagner@allen.com,761-514-0428x86050,free,0.00,,2022-10-21,,2026-06-08,32,51.6,1,1,42,0,BR,LegalTech,small,false,
+EXT-2727,Walls-Patterson,stonecody@anderson.com,208.835.6691,free,0.00,,2024-03-04,,2026-06-10,24,61.7,0,0,80,0,GB,LegalTech,mid,false,
+EXT-2728,Cohen Inc,shelby31@saunders.com,(406)588-2691x776,starter,144.29,,2023-07-10,,2026-05-21,17,58.5,0,0,68,0,SG,LegalTech,large,false,
+EXT-2729,"Guerra, Roberts and Mccarty",allenpeggy@leon.com,243-378-8260x33591,enterprise,4630.62,12,2023-08-04,2024-08-01,2026-06-07,24,73.5,1,1,69,0,GB,PropTech,large,true,2026-04-17
+EXT-2730,"Wood, Vazquez and Smith",romerovictoria@zimmerman.com,8748926999,free,0.00,,2024-03-04,,2026-01-22,4,41.7,2,4,1,2,NL,E-commerce,large,true,2025-03-19
+EXT-2731,"Phillips, Tran and Jacobs",hdavis@thomas-bowers.org,(593)425-9140x8499,starter,157.99,,2024-04-20,,2026-05-13,3,17.1,2,7,10,0,FR,E-commerce,small,true,2024-12-31
+EXT-2732,Rodriguez and Sons,kimberly66@castro.com,+1-472-561-7607,growth,588.55,,2024-01-14,,2026-05-25,18,69.3,0,1,50,0,NL,FinTech,mid,false,
+EXT-2733,Hoffman-Vang,abigailrobinson@bates.net,(880)740-5612,growth,743.98,12,2022-08-28,2023-08-01,2026-06-09,33,36.3,1,2,66,0,US,HealthTech,large,false,
+EXT-2734,Dunn and Sons,wgarza@rhodes.net,(596)756-1308x7612,enterprise,4995.97,12,2023-12-03,2024-12-01,2026-05-31,24,89.4,1,2,81,0,US,PropTech,mid,false,
+EXT-2735,"Rogers, Bradshaw and Wilson",kimberlyross@allen.net,800-327-3008x696,starter,54.59,,2025-02-24,,2026-05-22,24,72.4,0,0,54,0,DE,EdTech,mid,false,
+EXT-2736,Wilson Group,charlesbarnett@rogers.com,368-709-4149,starter,79.24,,2023-12-12,,2026-06-12,23,80.0,0,0,53,0,AU,HRTech,mid,false,
+EXT-2737,Chavez and Sons,monicaavery@jenkins.com,+1-444-807-7794x6207,starter,163.53,,2022-06-07,,2026-06-09,13,70.0,0,1,65,1,DE,FinTech,large,false,
+EXT-2738,Powers-Carlson,andrew17@garrett.com,(699)314-0688,starter,97.92,,2023-02-20,,2026-06-01,21,50.2,0,1,100,0,GB,SaaS,small,false,
+EXT-2739,Gonzalez Group,christopheranderson@howard-arias.com,(461)278-1703x211,growth,372.23,12,2022-02-03,2023-02-01,2026-06-10,16,78.7,0,2,52,0,AU,LegalTech,mid,false,
+EXT-2740,Rodriguez-Christensen,mandypetty@anderson-simpson.org,(261)433-7184x449,starter,170.64,,2024-04-22,,2026-04-23,5,28.3,3,3,5,4,NL,HealthTech,small,true,2025-06-28
+EXT-2741,"Morris, Thomas and Foster",dudleycody@mitchell-brown.info,941.467.8127,starter,68.63,,2025-01-26,,2026-05-30,19,65.6,1,1,60,0,FR,EdTech,large,false,
+EXT-2742,Jones and Sons,humphreypatricia@herrera.com,362.498.5797x36383,growth,763.70,,2024-07-06,,2026-06-12,22,76.5,0,0,56,0,DE,FinTech,small,false,
+EXT-2743,"Maldonado, Flores and Johnson",ashleycole@johnson.biz,(217)870-6736x8205,starter,100.36,,2024-07-30,,2026-04-11,2,3.7,0,4,21,1,GB,EdTech,mid,true,2026-03-11
+EXT-2744,"Thomas, Hopkins and Jackson",crystalmurphy@miller.com,3584714692,growth,983.05,,2022-12-21,,2026-06-06,21,48.8,1,1,,0,US,FinTech,small,false,
+EXT-2745,Holden and Sons,ashley79@grant.com,469.298.4802,starter,92.87,,2023-08-18,,2026-05-28,5,17.1,2,2,22,2,DE,MarTech,mid,false,
+EXT-2746,Yates-Bean,eileendaniels@george.com,+1-924-295-9881x1457,enterprise,2786.56,12,2023-03-08,2024-03-01,2026-06-07,26,57.2,0,0,,0,GB,HRTech,mid,false,
+EXT-2747,"Pena, Davis and Mclean",paulamorales@woods-ryan.com,9979461917,free,0.00,,2024-04-07,,2026-05-25,23,77.0,0,1,61,0,US,E-commerce,small,false,
+EXT-2748,Weaver-Vincent,twagner@hood.com,693.270.8580x62350,starter,66.26,,2023-06-21,,2026-03-07,5,9.2,4,10,-1,1,DE,LegalTech,mid,true,2024-03-10
+EXT-2749,"Kline, Ward and Vang",vluna@bryant.com,882-555-4428x679,growth,856.04,24,2024-09-15,2026-09-01,2026-06-08,14,73.5,0,2,59,0,DE,MarTech,large,false,
+EXT-2750,Gomez PLC,jacob32@patel.biz,338.791.5624,starter,130.86,,2024-04-17,,2026-01-15,4,12.5,1,4,-24,2,NL,MarTech,large,true,2024-08-20
+EXT-2751,Patel LLC,vthompson@jackson-johnston.biz,001-333-858-9513,starter,128.75,,2022-11-15,,2026-06-10,17,72.5,0,0,51,0,GB,EdTech,mid,false,
+EXT-2752,Diaz-Lynn,ystone@nguyen.com,930-434-9189x117,growth,648.51,12,2023-03-28,2024-03-01,2026-06-11,22,50.4,0,0,46,1,FR,PropTech,mid,false,
+EXT-2753,Gonzalez Ltd,brandi40@roberson.biz,515-847-1553x1325,enterprise,3863.05,12,2024-11-29,2025-11-01,2026-06-05,25,80.7,2,2,71,0,SG,SaaS,mid,false,
+EXT-2754,Luna-Sampson,allenronald@williams-moyer.com,(314)910-5276,starter,188.46,,2023-12-08,,2026-05-24,3,33.0,3,9,27,2,NL,InsurTech,small,false,
+EXT-2755,"Brown, Oconnor and Anderson",xsmith@young.net,+1-256-722-5866,growth,491.33,,2023-10-19,,2026-06-06,27,63.9,1,1,51,1,FR,FinTech,mid,false,
+EXT-2756,"Hunter, Sparks and Cole",kramirez@vasquez.net,348-359-6559x42824,starter,73.03,,2024-08-10,,2026-06-08,21,60.5,0,1,48,0,US,LegalTech,mid,false,
+EXT-2757,"Patterson, Cook and Taylor",khanbrad@watson-hall.com,732-715-5130,free,0.00,,2023-09-19,,2026-05-11,4,10.4,3,6,0,1,US,HealthTech,large,true,2025-05-17
+EXT-2758,Johnson-Harris,lpeters@garcia.net,+1-666-899-7273x677,growth,854.54,,2022-02-14,,2026-05-31,21,58.2,0,1,,0,GB,PropTech,large,false,
+EXT-2759,Burgess and Sons,meghan25@clark-benjamin.net,428.212.3123,growth,836.88,,2023-05-18,,2026-05-24,21,69.6,0,0,57,0,US,HealthTech,large,true,2024-09-30
+EXT-2760,"Torres, Davis and Bennett",mcclureapril@baker-moore.net,750.982.7681x722,enterprise,3500.93,,2022-06-10,,2026-06-09,16,57.2,2,4,68,0,DE,InsurTech,small,true,2022-11-08
+EXT-2761,Flores-Francis,anna47@gray.com,929-318-7683x16082,starter,120.05,,2023-11-14,,2026-06-10,30,66.6,1,1,97,0,US,FinTech,mid,false,
+EXT-2762,"Harrison, Brown and Mcdaniel",scottlove@frost.org,(505)822-2999,starter,55.17,,2024-11-24,,2026-06-06,27,35.9,1,1,55,0,US,PropTech,large,false,
+EXT-2763,Moses Ltd,qlloyd@jones.com,625.653.9835,growth,488.30,12,2025-01-02,2026-01-01,2026-05-30,15,60.5,0,1,41,0,BR,InsurTech,large,false,
+EXT-2764,Martinez-Hardy,fmclaughlin@martin.com,309.454.4979,starter,148.80,,2023-09-01,,2026-01-28,2,55.0,0,6,30,0,US,EdTech,small,true,2025-06-29
+EXT-2765,Munoz-Charles,ksmith@alexander.com,539-478-7137x52988,growth,617.09,24,2025-03-01,2027-03-01,2026-06-12,18,92.9,1,1,48,0,FR,SaaS,small,false,
+EXT-2766,Johnson Ltd,taylormichael@gibbs.com,9047879788,free,0.00,,2024-03-17,,2026-05-17,2,28.8,2,7,,2,SG,HealthTech,mid,false,
+EXT-2767,"Clark, Singh and Bush",elizabeth52@walsh.com,001-303-704-4361x995,starter,126.32,,2022-01-24,,2026-06-08,22,76.4,1,1,-5,0,GB,SaaS,mid,false,
+EXT-2768,Finley Ltd,johnsonedward@jackson.com,+1-801-943-7483x0930,enterprise,4231.92,24,2024-11-29,2026-11-01,2026-05-12,7,6.5,2,4,,2,CA,HealthTech,mid,false,
+EXT-2769,Clark PLC,hdavis@sanders.com,001-321-332-1767x201,growth,425.27,24,2024-10-26,2026-10-01,2026-05-25,31,81.2,1,1,33,1,GB,MarTech,small,false,
+EXT-2770,Reyes Inc,robinwilliams@griffith.net,001-273-439-3049x366,enterprise,4893.73,24,2022-03-15,2024-03-01,2026-06-07,26,88.3,0,0,89,0,SG,SaaS,mid,false,
+EXT-2771,Curtis-Ortega,kimberly12@thompson-davis.com,+1-468-625-0952,starter,194.55,,2023-06-10,,2026-03-01,3,38.3,1,6,-49,3,GB,E-commerce,mid,false,
+EXT-2772,Anderson-Larsen,jackierichardson@griffith-franco.com,001-303-499-5297x013,enterprise,4633.17,,2023-04-17,,2026-06-07,18,80.1,1,1,67,0,US,InsurTech,large,false,
+EXT-2773,Lee-Mcconnell,amber64@lewis.com,420-927-0615,starter,109.40,,2022-01-26,,2026-06-08,16,89.8,0,1,55,0,FR,E-commerce,large,false,
+EXT-2774,Grant LLC,jacksonchristine@higgins-maynard.biz,(290)563-2248x15542,starter,171.02,,2024-04-06,,2026-01-23,4,25.1,0,2,11,1,BR,LegalTech,small,true,2024-05-10
+EXT-2775,"Page, Mitchell and Wright",smithmichael@frye-elliott.info,(464)591-5795x546,growth,818.78,12,2022-08-30,2023-08-01,2026-05-24,21,93.2,0,2,30,0,DE,EdTech,large,false,
+EXT-2776,Mendoza-Rodriguez,steven01@peters.net,803-606-8317,starter,108.79,,2024-01-25,,2026-04-02,3,38.8,2,4,12,2,GB,HealthTech,large,true,2024-03-15
+EXT-2777,Burns Group,stephenszachary@santiago.com,001-215-907-1380x671,growth,889.64,24,2023-03-31,2025-03-01,2026-05-18,24,84.7,2,3,58,0,US,HealthTech,small,false,
+EXT-2778,"Perez, Miller and Williams",michael84@evans-owen.com,730-909-6258,growth,617.53,12,2023-05-22,2024-05-01,2026-06-07,17,75.2,1,3,87,0,DE,HealthTech,mid,false,
+EXT-2779,Warner-Carlson,hjohnson@smith.com,+1-362-574-6662x159,starter,119.58,,2023-09-27,,2026-06-04,22,100.0,1,2,45,0,BR,LegalTech,large,false,
+EXT-2780,Lyons Group,johnsontina@perry-garcia.com,+1-290-611-0797x7140,starter,133.74,,2023-07-29,,2026-06-05,29,96.9,2,2,54,1,CA,MarTech,mid,false,
+EXT-2781,"Young, Tate and Arnold",audrey53@bright.com,999-580-9497x698,starter,96.34,,2024-11-09,,2025-12-15,5,30.3,1,7,16,1,US,PropTech,small,true,2025-11-15
+EXT-2782,"Brown, Ford and Gonzales",cervantespatrick@brady.com,(537)540-7794,starter,98.21,,2023-07-12,,2026-01-04,2,43.1,3,5,58,1,IN,SaaS,mid,true,2025-12-12
+EXT-2783,Gill Group,jasonbarker@santiago.com,+1-970-414-2620x370,starter,193.43,,2022-11-10,,2026-06-09,22,43.9,0,1,60,1,GB,HRTech,mid,false,
+EXT-2784,Davis Inc,donnahopkins@pratt.net,935-499-8989,growth,813.82,,2023-12-17,,2026-06-04,24,59.9,0,1,53,0,CA,LegalTech,small,false,
+EXT-2785,Miller Group,simonamanda@matthews.com,986-744-8221,growth,467.41,,2022-03-25,,2026-06-11,29,97.2,0,0,44,0,SG,SaaS,large,false,
+EXT-2786,"Palmer, Ho and Duncan",xcompton@randolph-ryan.com,4485067571,free,0.00,,2024-08-03,,2025-12-24,4,20.8,6,11,1,1,GB,FinTech,mid,true,2025-05-28
+EXT-2787,Elliott-Evans,pdavis@miller.org,629-268-8276x970,free,0.00,,2023-03-26,,2026-04-03,2,26.0,0,1,-8,1,BR,HRTech,large,true,2023-09-18
+EXT-2788,"Gomez, Reeves and Green",tylerrodney@simmons-snyder.net,+1-832-474-8835x6517,growth,537.84,24,2023-06-28,2025-06-01,2026-03-17,4,62.1,1,5,37,2,GB,HRTech,mid,true,2023-11-04
+EXT-2789,Bowman-Dyer,smiles@bennett.org,(804)478-4217x02851,starter,148.97,,2022-03-05,,2026-06-08,16,50.9,0,2,41,0,BR,LegalTech,large,false,
+EXT-2790,Zavala LLC,margaretrussell@payne.com,986-488-3906x246,enterprise,4120.38,,2022-11-23,,2026-05-23,24,67.5,0,3,68,0,NL,LegalTech,small,true,2023-02-07
+EXT-2791,"Wallace, Johnston and Coleman",davischarles@willis.com,(492)536-1337x605,starter,126.06,,2023-02-07,,2026-02-04,3,22.0,2,6,51,0,DE,EdTech,mid,true,2024-06-23
+EXT-2792,Hull LLC,moraleskimberly@johnson.com,001-247-824-1916x503,starter,169.22,,2024-04-29,,2026-06-08,18,56.3,0,1,52,1,CA,E-commerce,small,false,
+EXT-2793,Bruce-Harrison,vmosley@barton.com,+1-389-680-8806x782,starter,175.27,,2023-05-22,,2026-06-01,21,90.8,1,2,83,0,SG,InsurTech,mid,false,
+EXT-2794,Ramos Group,cobbmary@lopez.com,+1-969-689-3969,growth,449.46,,2022-10-16,,2026-06-08,23,100.0,0,1,86,0,BR,SaaS,mid,false,
+EXT-2795,"James, Edwards and Stafford",murphybrianna@lara-williams.com,+1-329-920-7536x051,free,0.00,,2022-02-16,,2026-05-25,4,5.2,3,6,44,4,US,SaaS,mid,false,
+EXT-2796,Henderson Ltd,perezcaitlin@aguirre.biz,001-221-289-4559x067,starter,135.97,,2022-08-30,,2026-06-01,15,64.8,0,1,68,0,AU,EdTech,small,false,
+EXT-2797,Wheeler Ltd,lindsay48@wright.biz,+1-648-796-6760x5642,starter,173.12,,2023-12-19,,2026-04-17,4,20.1,1,4,-12,0,GB,EdTech,large,true,2024-11-29
+EXT-2798,Grimes-Burns,bmorgan@hayes.com,889.806.2354,free,0.00,,2022-03-20,,2026-04-04,7,56.2,1,5,-21,3,US,MarTech,mid,true,2024-07-25
+EXT-2799,Dickerson and Sons,srogers@rodriguez.com,+1-695-430-0622x122,growth,503.24,24,2022-07-08,2024-07-01,2026-06-04,13,66.9,1,2,33,1,DE,SaaS,large,false,

@@ -1,0 +1,45 @@
+version: '3.9'
+
+# Local full-stack test: backend on :8000, frontend on :5173 (nginx).
+# The browser talks directly to localhost:8000, so VITE_API_URL must be
+# a localhost URL (not the docker service name).
+#
+# Usage:
+#   docker compose up --build
+#   Open http://localhost:5173
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    ports:
+      - "8000:8000"
+    env_file:
+      - backend/.env
+    environment:
+      # Override a few settings for container context
+      - ENVIRONMENT=production
+      - DEBUG=false
+      # Allow the nginx frontend to call this service
+      - CORS_EXTRA_ORIGINS=http://localhost:5173
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+      args:
+        # Browser-visible URL — must be reachable from the user's machine
+        VITE_API_URL: http://localhost:8000
+    ports:
+      - "5173:80"
+    depends_on:
+      backend:
+        condition: service_healthy
+    restart: unless-stopped
