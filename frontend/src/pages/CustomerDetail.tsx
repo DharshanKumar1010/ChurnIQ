@@ -148,8 +148,8 @@ export default function CustomerDetail() {
               />
               <Tooltip
                 formatter={(v: unknown) => [Number(v).toFixed(4), 'SHAP value']}
-                labelFormatter={(_: unknown, payload) =>
-                  (payload as Array<{ payload?: { description?: string } }>)?.[0]?.payload?.description ?? ''
+                labelFormatter={(_: unknown, payload: unknown) =>
+                  (payload as unknown as Array<{ payload?: { description?: string } }>)?.[0]?.payload?.description ?? ''
                 }
               />
               <ReferenceLine x={0} stroke="#9ca3af" />
