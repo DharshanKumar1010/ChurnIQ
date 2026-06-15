@@ -109,7 +109,7 @@ export default function Dashboard() {
                 <Cell key={entry.name} fill={TIER_COLORS[entry.name]} />
               ))}
             </Pie>
-            <Tooltip formatter={(v: number) => [v.toLocaleString(), 'Customers']} />
+            <Tooltip formatter={(v: unknown) => [Number(v).toLocaleString(), 'Customers']} />
             <Legend />
           </PieChart>
         </ResponsiveContainer>
